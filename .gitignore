@@ -11,6 +11,7 @@ generated_datasets_for_clustering/*
 output/*
 datasets/*
 *.txt
+./demonstrations/
 
 # deepspeed configs
 ds_configs/
