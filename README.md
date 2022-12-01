@@ -1,4 +1,5 @@
-# GPT Distribution based classification
+# Prompt-Augmented Linear Probing
+Official code for PALP (AAAI 2023).
 
 ## Install following package
 hydra version 1.1.1.
