@@ -1,0 +1,300 @@
+Sentence 1: what are the reviews like for zazie.
+Label: restaurant_reviews
+Sentence 1: can you tell me the nutritional content of chicken nuggets.
+Label: nutrition_info
+Sentence 1: why am i locked out of my bank account.
+Label: account_blocked
+Sentence 1: how do i change the oil for my car.
+Label: oil_change_how
+Sentence 1: what time is it now.
+Label: time
+Sentence 1: what's the weather.
+Label: weather
+Sentence 1: how can i cash in my credit card points.
+Label: redeem_rewards
+Sentence 1: what's my interest rate.
+Label: interest_rate
+Sentence 1: what kind of gas should i put in this car.
+Label: gas_type
+Sentence 1: do they take reservations at applebees.
+Label: accept_reservations
+Sentence 1: turn the fan on please.
+Label: smart_home
+Sentence 1: what's the name that you have for me, please.
+Label: user_name
+Sentence 1: i need to report my stolen card.
+Label: report_lost_card
+Sentence 1: i didn't understand what you just said, can you repeat it.
+Label: repeat
+Sentence 1: please turn on whisper voice.
+Label: whisper_mode
+Sentence 1: what do you do for hobbies.
+Label: what_are_your_hobbies
+Sentence 1: i want you to order everything on my shopping list.
+Label: order
+Sentence 1: what do i do to jump start my car.
+Label: jump_start
+Sentence 1: can you schedule a meeting for me.
+Label: schedule_meeting
+Sentence 1: what meetings do i have scheduled today.
+Label: meeting_schedule
+Sentence 1: can you please freeze my bank account.
+Label: freeze_account
+Sentence 1: what song is this.
+Label: what_song
+Sentence 1: what do you think is the meaning of life.
+Label: meaning_of_life
+Sentence 1: can i reserve a table for 2 at the olive garden at 8.
+Label: restaurant_reservation
+Sentence 1: what is the traffic like on the way to town.
+Label: traffic
+Sentence 1: call home.
+Label: make_call
+Sentence 1: send a text for me.
+Label: text
+Sentence 1: how much are my bills.
+Label: bill_balance
+Sentence 1: how can i make my credit score better.
+Label: improve_credit_score
+Sentence 1: can i change your language.
+Label: change_language
+Sentence 1: that is wrong.
+Label: no
+Sentence 1: how many meters are in 2 inches.
+Label: measurement_conversion
+Sentence 1: set a timer for me.
+Label: timer
+Sentence 1: flip a coin for me.
+Label: flip_coin
+Sentence 1: what kind of pets do you own.
+Label: do_you_have_pets
+Sentence 1: what's my bank balance.
+Label: balance
+Sentence 1: tell me a funny joke.
+Label: tell_joke
+Sentence 1: when did i last have car maintenance.
+Label: last_maintenance
+Sentence 1: how many euros can i exchange for 5 us dollars.
+Label: exchange_rate
+Sentence 1: i need an uber to the movies for me and 5 other people.
+Label: uber
+Sentence 1: can you help me book a car rental in seattle.
+Label: car_rental
+Sentence 1: what's the credit limit on my account.
+Label: credit_limit
+Sentence 1: please increase the volume to 4.
+Label: change_volume
+Sentence 1: what's on my shopping list.
+Label: shopping_list
+Sentence 1: when is my credit card going to expire.
+Label: expiration_date
+Sentence 1: what's the routing number for my bank of the west account.
+Label: routing
+Sentence 1: what would you suggest for dinner.
+Label: meal_suggestion
+Sentence 1: when should i get my tires changed again.
+Label: tire_change
+Sentence 1: what have i got on my to-do list.
+Label: todo_list
+Sentence 1: i don't understand why my card was declined yesterday.
+Label: card_declined
+Sentence 1: how many reward points have stacked up for my amex card.
+Label: rewards_balance
+Sentence 1: can you switch to female voice.
+Label: change_accent
+Sentence 1: do i need shots to go to thailand.
+Label: vaccines
+Sentence 1: set a reminder for me.
+Label: reminder_update
+Sentence 1: how long will chicken last in the freezer.
+Label: food_last
+Sentence 1: can i change your name please.
+Label: change_ai_name
+Sentence 1: when is my bill due.
+Label: bill_due
+Sentence 1: who do you work for.
+Label: who_do_you_work_for
+Sentence 1: send my location to my mom.
+Label: share_location
+Sentence 1: do i need a visa to travel to canada.
+Label: international_visa
+Sentence 1: what's on my calendar for the 18th of march.
+Label: calendar
+Sentence 1: how do they say hello in france.
+Label: translate
+Sentence 1: what can't i carry-on to delta.
+Label: carry_on
+Sentence 1: book flights for me from nyc to la on march 1, returning on march 5.
+Label: book_flight
+Sentence 1: i need a newer insurance plan.
+Label: insurance_change
+Sentence 1: put cleaning on my to do list.
+Label: todo_list_update
+Sentence 1: what time zone are we currently in.
+Label: timezone
+Sentence 1: please cancel my reservation.
+Label: cancel_reservation
+Sentence 1: what was my last transaction.
+Label: transactions
+Sentence 1: what's my credit score.
+Label: credit_score
+Sentence 1: i think there's a fraudulent transaction on my account.
+Label: report_fraud
+Sentence 1: how much money have i spent this week.
+Label: spending_history
+Sentence 1: how can i take a bus to dallas.
+Label: directions
+Sentence 1: i don't know how to spell apparently.
+Label: spelling
+Sentence 1: what is my health plan.
+Label: insurance
+Sentence 1: what name should i use when talking with you.
+Label: what_is_your_name
+Sentence 1: read my list of reminders to me.
+Label: reminder
+Sentence 1: where were you born.
+Label: where_are_you_from
+Sentence 1: how long does it take to get to dallas by bus.
+Label: distance
+Sentence 1: when's my next paycheck.
+Label: payday
+Sentence 1: when will my flight land.
+Label: flight_status
+Sentence 1: can you tell me the song we are listening to.
+Label: find_phone
+Sentence 1: how are you.
+Label: greeting
+Sentence 1: set an alarm for 6am, please.
+Label: alarm
+Sentence 1: can you see if my order was delivered.
+Label: order_status
+Sentence 1: can you confirm my reservation for donnobys at 5:00.
+Label: confirm_reservation
+Sentence 1: how long should i cook chicken.
+Label: cook_time
+Sentence 1: my card is damaged so i can not use it.
+Label: damaged_card
+Sentence 1: go back to factory settings please.
+Label: reset_settings
+Sentence 1: i need to change my pin number for my account.
+Label: pin_change
+Sentence 1: how long will a new card take to reach me.
+Label: replacement_card_duration
+Sentence 1: i need to apply for a new credit card.
+Label: new_card
+Sentence 1: roll a seven sided dice for me.
+Label: roll_dice
+Sentence 1: what's my income.
+Label: income
+Sentence 1: how much do i pay in my taxes.
+Label: taxes
+Sentence 1: what date is tomorrow.
+Label: date
+Sentence 1: tell me who made you.
+Label: who_made_you
+Sentence 1: i need a pto request on march 1 to 2.
+Label: pto_request
+Sentence 1: what's my tires' air pressure.
+Label: tire_pressure
+Sentence 1: how old are you again.
+Label: how_old_are_you
+Sentence 1: how can i roll over my 401k.
+Label: rollover_401k
+Sentence 1: do you know if my vacation request has been approved.
+Label: pto_request_status
+Sentence 1: how long is the wait at macaroni grill.
+Label: how_busy
+Sentence 1: has my application for the mastercard card gone through.
+Label: application_status
+Sentence 1: can you find me a recipe for pie.
+Label: recipe
+Sentence 1: clear my calendar for tomorrow.
+Label: calendar_update
+Sentence 1: play a song for me.
+Label: play_music
+Sentence 1: yes, that is true.
+Label: yes
+Sentence 1: how do you set up direct deposit.
+Label: direct_deposit
+Sentence 1: can i get my credit limit increased to $15,000.
+Label: credit_limit_change
+Sentence 1: what amount of gas do i have in my car.
+Label: gas
+Sentence 1: i need to pay my bill.
+Label: pay_bill
+Sentence 1: what ingredients do i need to make egg salad.
+Label: ingredients_list
+Sentence 1: can you please help me find my lost luggage.
+Label: lost_luggage
+Sentence 1: good to see you.
+Label: goodbye
+Sentence 1: what types of things can i ask you.
+Label: what_can_i_ask_you
+Sentence 1: book me a hotel in chicago near the water tower shopping from april 2nd to 4th.
+Label: book_hotel
+Sentence 1: are you a real human.
+Label: are_you_a_bot
+Sentence 1: go to the next song now.
+Label: next_song
+Sentence 1: can you please talk slower.
+Label: change_speed
+Sentence 1: do i really need a plug converter when in london.
+Label: plug_type
+Sentence 1: i'm really not sure.
+Label: maybe
+Sentence 1: where can i get my w-2.
+Label: w2
+Sentence 1: when should my oil get changed.
+Label: oil_change_when
+Sentence 1: thank you so much.
+Label: thank_you
+Sentence 1: what did i put on my shopping list so far.
+Label: shopping_list_update
+Sentence 1: how many vacation days do i have left.
+Label: pto_balance
+Sentence 1: i need to order more checks for my usbank account.
+Label: order_checks
+Sentence 1: is there a travel alert for that country.
+Label: travel_alert
+Sentence 1: what is a fun fact about dogs.
+Label: fun_fact
+Sentence 1: connect to my phone for me.
+Label: sync_device
+Sentence 1: i got to schedule some car maintenance.
+Label: schedule_maintenance
+Sentence 1: what is the apr for my credit card.
+Label: apr
+Sentence 1: transfer money to another account.
+Label: transfer
+Sentence 1: can i substitute yogurt for sour cream.
+Label: ingredient_substitution
+Sentence 1: how many calories are in waffles.
+Label: calories
+Sentence 1: what's my location.
+Label: current_location
+Sentence 1: does my amex card use international transaction fees.
+Label: international_fees
+Sentence 1: what is 5 x 4.
+Label: calculator
+Sentence 1: what does alternative mean.
+Label: definition
+Sentence 1: when is the next day off.
+Label: next_holiday
+Sentence 1: add this song to my dinner playlist.
+Label: update_playlist
+Sentence 1: what is the mpg of this car.
+Label: mpg
+Sentence 1: what is the minimum payment for my credit card bill.
+Label: min_payment
+Sentence 1: you can call me john.
+Label: change_user_name
+Sentence 1: can you find me a good restaurant to try eating at.
+Label: restaurant_suggestion
+Sentence 1: what's left in my gas tank.
+Label: travel_notification
+Sentence 1: please stop.
+Label: cancel
+Sentence 1: how many days off have i taken.
+Label: pto_used
+Sentence 1: what's a good place to travel to.
+Label: travel_suggestion
