@@ -8,6 +8,18 @@ import hydra
 from omegaconf import DictConfig
 from utils import return_filenames
 
+import random
+import torch
+import numpy as np
+import os
+
+def seed_everything(seed=1234):
+    print(f'SET RANDOM SEED = {seed}')
+    random.seed(seed)
+    torch.manual_seed(seed)
+    torch.cuda.manual_seed_all(seed)
+    np.random.seed(seed)
+    os.environ['PYTHONHASHSEED'] = str(seed)
 
 def get_gaussian_dist(aug_reps):
     num_classes = len(aug_reps)
@@ -24,11 +36,28 @@ def get_gaussian_dist(aug_reps):
         centered_aug_reps.append((reps_list - class_mean[idx]).clone().detach().cpu().numpy())
     centered_aug_reps = np.concatenate(centered_aug_reps)
     
-    print('Fitting Covariance Matrix...')
+    # print('Fitting Covariance Matrix...')
     precision = LedoitWolf().fit(centered_aug_reps).precision_.astype(np.float32)
     class_var = torch.from_numpy(precision).float().cuda()
 
     return class_mean, class_var
+
+def get_centroid(aug_reps):
+    num_classes = len(aug_reps)
+    num_dim = len(aug_reps[0][0]) 
+    class_mean = torch.zeros(num_classes, num_dim).cuda()
+    
+    for idx, reps_list in enumerate(aug_reps):
+        reps_list = torch.tensor(reps_list).cuda()
+        class_mean[idx] = (reps_list.mean(0))
+
+    centered_aug_reps = []
+    for idx, reps_list in enumerate(aug_reps):
+        reps_list = torch.tensor(reps_list).cuda()
+        centered_aug_reps.append((reps_list - class_mean[idx]).clone().detach().cpu().numpy())
+    centered_aug_reps = np.concatenate(centered_aug_reps)
+
+    return class_mean
 
 
 
@@ -52,9 +81,10 @@ def calculate_acc(train_rep, train_label, class_mean, class_var):
 
 
 
-@hydra.main(config_path=".", config_name="model_config.yaml")
-def main(args: DictConfig) -> None:
-    
+# @hydra.main(config_path=".", config_name="model_config.yaml")
+# def main(args: DictConfig) -> None:
+def main(args):    
+    seed_everything(args.seed)
     task_name=args.task_name
     train_file, test_file, _ = return_filenames(args, task_name)
 
@@ -71,7 +101,7 @@ def main(args: DictConfig) -> None:
         correct += calculate_acc(rep, label, class_mean, class_var)
         total +=1
     acc = correct*100/total
-    print(f'Mahalanobis evaluation accuracy : {acc:.2f}')
+    print(f'** GDA score : {acc:.2f}')
           
 if __name__ == "__main__":
     main()

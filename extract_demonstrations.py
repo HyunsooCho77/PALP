@@ -10,6 +10,7 @@ from dataset_utils import task_to_keys, task_templates
 import numpy as np
 from dataset_utils import task_to_keys
 from typing import List, Tuple
+from GDA import get_centroid
 logger = logging.getLogger(__name__)
 
 class TextRetrieval:
@@ -71,13 +72,9 @@ class TextRetrieval:
 
     def save_texts(self, text_dict: dict, file_name: str):
         text_list = text_dict['texts']
-        label_list = text_dict['labels']
-        text_idx = text_dict['text_idx']
-
         demon_dict = {}
 
         task_dict = task_templates[self.task_name]
-
         for i in range(len(text_list)):
             demon_dict[i]= task_dict['prefix'] + text_list[i] + task_dict['postfix'] + task_dict['verbalizer'][i]
 
@@ -108,23 +105,24 @@ def kmeans_assignment(centroids, points):
     return np.argmin(distances, axis=1), distances
 
 
-@hydra.main(config_path=".", config_name="model_config.yaml")
-def main(args: DictConfig) -> None:
-    
+# @hydra.main(config_path=".", config_name="model_config.yaml")
+# def main(args: DictConfig) -> None:
+def main(args):
     task_dic = dict(args.extract_tasks)
 
     for task_name, benchmark_name  in task_dic.items():
         train_file, test_file, output_dir = return_filenames(args, task_name)
         
+        if os.path.exists(os.path.join(output_dir, f"demonstrations", f"seed_{args.seed}.pickle")):
+            break
         # with open(os.path.join(test_file), 'rb') as f:
         #     rep_label = pickle.load(f)
         with open(os.path.join(train_file), 'rb') as f:
             aug_reps = pickle.load(f)
         reps, labels = train_converter(aug_reps, return_type='list')
         text_ret = TextRetrieval(args=args, task_name= task_name, benchmark_name = benchmark_name, reps=reps, labels=labels, output_dir=output_dir)
-
-        from GDA import get_gaussian_dist
-        class_true_mean, class_var = get_gaussian_dist(aug_reps)
+        
+        class_true_mean = get_centroid(aug_reps)
         class_true_mean = class_true_mean.clone().detach().cpu().numpy()
 
         extract_text4mu(reps=reps, class_true_mean=class_true_mean, text_ret=text_ret, data_name=task_name)

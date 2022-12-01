@@ -25,8 +25,12 @@ def return_filenames(args, task_name):
             train_fname='PALP-T_train.pickle' if args.shots == 'full' else f'PALP-T_train_seed_{args.seed}.pickle'
             test_fname='PALP-T_test.pickle' if args.shots == 'full' else f'PALP-T_test_seed_{args.seed}.pickle'
         else:
+            # if os.path.exists(os.path.join(output_dir, f'PALP-T_train_seed_{args.seed}.pickle')) and os.path.exists(os.path.join(output_dir, 'PALP-T_test_seed_{args.seed}.pickle')):
             train_fname='PALP-D_train.pickle' if args.shots == 'full' else f'PALP-D_train_seed_{args.seed}.pickle'
             test_fname='PALP-D_test.pickle' if args.shots == 'full' else f'PALP-D_test_seed_{args.seed}.pickle'
+            # else:
+            #     train_fname='PALP-T_train.pickle' if args.shots == 'full' else f'PALP-T_train_seed_{args.seed}.pickle'
+            #     test_fname='PALP-T_test.pickle' if args.shots == 'full' else f'PALP-T_test_seed_{args.seed}.pickle'
 
     full_train_fname = os.path.join(output_dir,train_fname)
     full_test_fname = os.path.join(output_dir, test_fname)
@@ -53,7 +57,7 @@ def extract_embedding(args, data_loader, model, num_labels, is_train):
             last_representation = last_hidden_states[range(last_hidden_states.size()[0]), last_index, :]            
             
             for batch_index, label in enumerate(labels):
-                current_last_representation = last_representation[batch_index].tolist()
+                current_last_representation = last_representation[batch_index].cpu().tolist()
                 if is_train == True:
                     embeddings[label].append(current_last_representation)
                 else : 
@@ -101,6 +105,9 @@ def custom_load_dataset(task_name, benchmark_name):
                 eval_dataset = eval_dataset.filter(lambda sample : sample['intent'] != 42)
                 # set samples with label 150 to label 42
                 eval_dataset = eval_dataset.map(lambda sample : {'intent' : 42} if sample['intent'] == 150 else {'intent' : sample['intent']})
+            else:
+                train_dataset = load_dataset(benchmark_name, task_name, split='train')
+                eval_dataset = load_dataset(benchmark_name, task_name, split='test')
 
     else:
         raise NotImplementedError(f'{task_name} task is not implemented yet.')
@@ -160,77 +167,3 @@ def test_converter(dataset, return_type = 'np_array'):
 
 
 
-from dataset_utils import task_to_keys
-
-
-class TextRetrieval:
-    def __init__(self, args, task_name, benchmark_name, reps: list, labels: list, output_dir: str):
-        self.args = args
-        self.reps = reps
-        self.labels = labels
-        self.task_name = task_name
-        self.benchmark_name = benchmark_name
-        self.texts, self.text_labels = self.load_text_data()
-        self.save_path = os.path.join(output_dir, f"texts")
-        if not os.path.exists(self.save_path):
-            os.makedirs(self.save_path)
-
-    def load_text_data(self) -> Tuple[list, list]:
-        train_dataset, _ = custom_load_dataset(self.task_name, self.benchmark_name)
-        
-        if len(train_dataset) >= 30000:
-            # ToDo: shuffle.....?
-            dataset_split = train_dataset.train_test_split(train_size=30000, shuffle=True, seed=42)
-            train_dataset = dataset_split['train']
-        sentence1_key, sentence2_key = task_to_keys[self.task_name]['input']
-        label_key = task_to_keys[self.task_name]['label']
-        texts, text_labels = train_dataset[sentence1_key], train_dataset[label_key]
-
-        # since representations and labels are in class sorted order, (0,...,0,1,...)
-        ret_texts, ret_labels = [], []
-
-        for i in range(len(set(text_labels))):
-            for j in range(len(texts)):
-                l = text_labels[j]
-                if i == l:
-                    ret_texts.append(texts[j])
-                    ret_labels.append(text_labels[j])
-        
-        assert len(ret_texts) == len(texts)
-
-        return ret_texts, ret_labels
-
-    def rep_to_text(self, target_reps: np.array) -> dict:
-
-        n_targets = target_reps.shape[0]
-        text_list = []
-        label_list = []
-        text_idx = []
-
-        for i in range(n_targets):
-            target = target_reps[i].reshape(1, target_reps.shape[-1])
-            t_diff = np.array(self.reps) - target
-            t_idx = np.where(np.sum(t_diff, 1) == 0)[0][0]
-            text_list.append(self.texts[t_idx])
-            text_idx.append(t_idx)
-            label_list.append(self.text_labels[t_idx])
-
-        return {'text_idx': text_idx, 'texts':text_list, 'labels': label_list}
-
-    def save_texts(self, text_dict: dict, file_name: str):
-        text_list = text_dict['texts']
-        label_list = text_dict['labels']
-        text_idx = text_dict['text_idx']
-
-        with open(os.path.join(self.save_path, f"{file_name}text.txt"), 'w') as fp:
-            for i in range(len(text_list)):
-                # fp.write(f"{text_list[i]}\nclass: {label_list[i]} | idx: {text_idx[i]}\n")
-                fp.write(f"{text_list[i]}\n")
-
-        with open(os.path.join(self.save_path, f"{file_name}label.txt"), 'w') as fp:
-            for i in range(len(label_list)):
-                fp.write(f"{label_list[i]}\n")
-        
-        with open(os.path.join(self.save_path, f"{file_name}idx.txt"), 'w') as fp:
-            for i in range(len(text_idx)):
-                fp.write(f"{text_idx[i]}\n")

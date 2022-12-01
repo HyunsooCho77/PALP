@@ -6,26 +6,15 @@ hydra version 1.1.1.
 >> pip install hydra-core==1.1.1. 
 ```
 
-## Performance report	
-[Spreadsheet Link](https://docs.google.com/spreadsheets/d/1AgxKksixAC7LVdM7HGPq7wWmH5PZL5eW3y-5mY1e0ug/edit#gid=789844801)
-
-
-
-## Extracting representations from GPTs
+## Usage.
 Related hyper-parameters (tasks, models, etc) are in model_config.yaml
-```bash
->> python transformers_extract_embeddings.py
-```
 
+* Baseline: set apply_prompt=False, and demonstrations=False.
+* PALP-T: set apply_prompt=True, and demonstrations=False.
+* PALP-D: set apply_prompt=True, and demonstrations=True.
 
-## Evaluation
-Related hyper-parameters (tasks, models, etc) are in model_config.yaml
-```bash
->> python metric_mahal.py
-```
+And run main code.
 
-## Script (auto evaluating whole tasks)
-Related hyper-parameters (tasks, models, etc) are in script_config.yaml
 ```bash
->> python script.py
+>> python run_PALP.py
 ```

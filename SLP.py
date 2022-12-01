@@ -10,6 +10,19 @@ import hydra
 from omegaconf import DictConfig
 from tqdm import tqdm
 
+import random
+import torch
+import numpy as np
+import os
+
+def seed_everything(seed=1234):
+    print(f'SET RANDOM SEED = {seed}')
+    random.seed(seed)
+    torch.manual_seed(seed)
+    torch.cuda.manual_seed_all(seed)
+    np.random.seed(seed)
+    os.environ['PYTHONHASHSEED'] = str(seed)
+
 class TensorData(Dataset):
   def __init__(self, x_data, y_data):
     self.x_data = torch.FloatTensor(x_data)
@@ -33,7 +46,9 @@ class SLP(nn.Module):
 
 
 @hydra.main(config_path=".", config_name="model_config.yaml")
-def main(args: DictConfig):
+# def main(args: DictConfig):
+def main(args):    
+    seed_everything(args.seed)
     # Load Dataset
     train_file, test_file, _ = return_filenames(args, task_name=args.task_name)
 
@@ -92,7 +107,7 @@ def main(args: DictConfig):
             
         pbar.set_description(f'loss : {running_loss}, acc: {best_acc}, early_stop_count: {early_stop_count}')
         
-    print(f'BEST > acc:{best_acc}')
+    print(f'** SLP score:{best_acc}')
     print('Finished Training')
 
 

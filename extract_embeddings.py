@@ -7,6 +7,7 @@ import sys
 import pickle
 import pdb
 import hydra
+import math
 from omegaconf import DictConfig
 from tqdm import tqdm
 from transformers import (
@@ -38,8 +39,16 @@ def generate_demonstration(ordering, demo_dict):
 def generate_ordering_list(class_list, initial_odering, max_samples=10):
     ordering_list = [initial_odering]
 
+    num_samples = len(class_list)
+
+    # TODO : make clear logic
+    if num_samples * (num_samples-1) < max_samples:
+        max_samples = math.perm(num_samples, num_samples)
+        print(f'* Sample only {max_samples} samples')
+
     bar = tqdm(range(max_samples), desc=f'Select {max_samples} samples')
     while True:
+        # pdb.set_trace()
         random.shuffle(class_list)
         ordering = copy.deepcopy(class_list)
         # print(class_list)
@@ -75,9 +84,9 @@ def preprocess_sentence(args, task_name, sentence1, sentence2, demonstrations=''
     return final_sentence
 
 
-@hydra.main(config_path=".", config_name="model_config.yaml")
-def main(args: DictConfig) -> None:
-
+# @hydra.main(config_path=".", config_name="model_config.yaml")
+# def main(args: DictConfig) -> None:
+def main(args):
     # Load pretrained model and tokenizer
     tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path)
     
@@ -111,7 +120,7 @@ def main(args: DictConfig) -> None:
         
         if os.path.exists(full_train_fname) and os.path.exists(full_test_fname):
             print(f'Previous representation exists. name: f{full_train_fname}')
-            sys.exit(0)
+            break
         else:
             print(f'continue: task: {task_name}, benchmark: {benchmark_name}')
 
@@ -171,8 +180,6 @@ def main(args: DictConfig) -> None:
             return results
 
         # HJ : generate demonstrations
-        # TODO : move to config?
-        NUM_MAX_DEMO = 20
         demon_list = []
         if args.demonstrations == True:
             # data path
@@ -184,7 +191,7 @@ def main(args: DictConfig) -> None:
             indices = sorted(list(demon_dict.keys()))
             initial_orderings = sorted(list(demon_dict.keys()))
 
-            demo_orderings = generate_ordering_list(indices, initial_orderings, max_samples=NUM_MAX_DEMO)
+            demo_orderings = generate_ordering_list(indices, initial_orderings, max_samples=args.max_demonstrations)
             for demo_ordering in demo_orderings:
                 demo = generate_demonstration(demo_ordering, demon_dict)
                 demon_list.append(demo)

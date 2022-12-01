@@ -11,8 +11,8 @@ hydra:
 model_name_or_path: EleutherAI/gpt-j-6B 
 log_dir: performance # Performance dir
 few_dset_dir: revisiting_few # fewshot_raw_dset dir
-shots: 8
-seed: 13
+shots: 4 # 4, 8, full
+seed: 915 # 13, 27, 250, 583, 915
 
 ### Methods
 ### baseline -> apply_prompt: False, demonstration: False
@@ -21,23 +21,24 @@ seed: 13
 apply_prompt: True
 demonstrations: True
 # demonstrations: False
+max_demonstrations: 20
 # ************************************************************************
 
 
 
 # ****************** Representation Extractions ***************************
-extract_tasks: {trec: huggingface} # Available tasks -> {sst2: glue, rotten_tomatoes: huggingface, offensive: tweet_eval, cola: glue, stance_atheism: tweet_eval, emotion: tweet_eval, ag_news: huggingface, trec: huggingface, banking77: huggingface, plus: clinc_oos, mnli: glue,mrpc: glue,rte: glue,boolq: super_glue,cb: super_glue}
+extract_tasks: {sst2: glue} # Available tasks -> {sst2: glue, rotten_tomatoes: huggingface, offensive: tweet_eval, cola: glue, stance_atheism: tweet_eval, emotion: tweet_eval, ag_news: huggingface, trec: huggingface, banking77: huggingface, plus: clinc_oos, mnli: glue,mrpc: glue,rte: glue,boolq: super_glue,cb: super_glue}
 output_dir: ./output
-extraction_batch_size: 40 # Please set this hyper-parameter considering your GPU Memory.
+extraction_batch_size: 10 # Please set this hyper-parameter considering your GPU Memory.
 # ************************************************************************
 
 
 
 # ****************** Linear Probing Evaluation ***************************
-task_name: trec # choices
-nn_batch_size: 4
-nn_early_stop: 100
-nn_lr: 1e-4
+task_name: sst2 # choices
+nn_batch_size: 2
+nn_early_stop: 150
+nn_lr: 1e-3
 
 # Gaussian eval config  
 dset: full # choices = [fewshot, full]
