@@ -1,0 +1,308 @@
+{"text": "Show me how to activate my card", "label": 0}
+{"text": "My new card needs activating.", "label": 0}
+{"text": "Would you be so kind as to activate my card? Thanks", "label": 0}
+{"text": "Just received my replacement card, what steps do i need to take to activate it?", "label": 0}
+{"text": "How old can one use your service?", "label": 1}
+{"text": "Hold old do my kids have to be to use the service?", "label": 1}
+{"text": "Am I allowed to get an account for my daughter?", "label": 1}
+{"text": "What are age requirements for opening an account?", "label": 1}
+{"text": "I want to top up with my Apple Watch.", "label": 2}
+{"text": "I would like to know if I can top up with Google Pay.", "label": 2}
+{"text": "Does Apple Watch support the topping-off of my account?", "label": 2}
+{"text": "Apple watch top up help, please?", "label": 2}
+{"text": "Where is a ATM that accepts Mastercard?", "label": 3}
+{"text": "need to know places i can withdraw money", "label": 3}
+{"text": "Can I use my card at an ATM?", "label": 3}
+{"text": "What's the closest place to withdraw money?", "label": 3}
+{"text": "Is auto top up a provided service?", "label": 4}
+{"text": "I want to add money automatically when I travel.", "label": 4}
+{"text": "When I travel, can it automatically add money in certain intervals?", "label": 4}
+{"text": "Do you offer auto top ups?", "label": 4}
+{"text": "I have transferred some money but the balance hasn't changed", "label": 5}
+{"text": "How long do I have to wait until the transferred money shows up?", "label": 5}
+{"text": "How long does a transfer from the United Kingdom take? I haven't seen it show up yet in my bank account and want to make sure I get the transfer.", "label": 5}
+{"text": "My balance doesn't include my latest transfer", "label": 5}
+{"text": "The balance hasn't changed yet after depositing a cheque with some money.", "label": 6}
+{"text": "I have made a recent check and cash deposit that isn't reflected in my balance.", "label": 6}
+{"text": "My mother deposited a cheque into my account last week, why is it still not showing up?", "label": 6}
+{"text": "I am worried about the amount of my cheque, which should be credited to my account few days before. As i have already sent you the cheque.", "label": 6}
+{"text": "Why can't you allow my beneficiary?", "label": 7}
+{"text": "Why didn't my transfer to a beneficiary happen?", "label": 7}
+{"text": "Why can't I transfer money to a beneficiary", "label": 7}
+{"text": "is a transfer to a beneficiary allowed?", "label": 7}
+{"text": "I goofed up and used the wrong account.  Please help.", "label": 8}
+{"text": "I would like to cancel a transfer", "label": 8}
+{"text": "I made a transaction to the wrong account!", "label": 8}
+{"text": "Can I stop a transaction?", "label": 8}
+{"text": "My card is about to expire.  Where do I get a new one.", "label": 9}
+{"text": "Does it cost anything to get a new card? Mine's about to expire and I'd also like to know how long it takes to get the new one.", "label": 9}
+{"text": "I will need a new card because mine is almost expired.  How fast do I get a replacement and what is the cost?", "label": 9}
+{"text": "The expiration date on my card is very soon, and I need to get a new one.  What are the price and delivery options for my replacement card?", "label": 9}
+{"text": "\nWhere can I use my card?", "label": 10}
+{"text": "Is there a list of where I can use my card?", "label": 10}
+{"text": "Do all businesses take this card?", "label": 10}
+{"text": "Are there any restrictions on where I use this card?", "label": 10}
+{"text": "If I ordered my new card last week, how much longer should I wait to receive it?", "label": 11}
+{"text": "I'm still waiting for my card.", "label": 11}
+{"text": "How can I periodically check the delivery of the card you sent?", "label": 11}
+{"text": "Can I track the card you sent to me?", "label": 11}
+{"text": "i need to expedite my card", "label": 12}
+{"text": "How long does it take for something to be delivered to the U.S?", "label": 12}
+{"text": "I need my card soon.", "label": 12}
+{"text": "What's the earliest time to receive my card?", "label": 12}
+{"text": "found card, how to put it back in app", "label": 13}
+{"text": "I found my old card. Can I link it back into the app?", "label": 13}
+{"text": "The card I thought I lost was in my jacket pocket this morning, so can I reactivate that?", "label": 13}
+{"text": "Where in the app do I link a new card?", "label": 13}
+{"text": "What do I do if my card is not working?", "label": 14}
+{"text": "No transactions are being accepted, what's wrong with my card?", "label": 14}
+{"text": "Today I used my card at a restaurant and it was declined. Why?", "label": 14}
+{"text": "My card isn't working at all. What happened?", "label": 14}
+{"text": "How was I charged extra when I used my card to pay?", "label": 15}
+{"text": "My card was charged more than expected.", "label": 15}
+{"text": "Why do I have to pay extra for using my card?", "label": 15}
+{"text": "I was charged an additional amount of money for making a purchase with my card", "label": 15}
+{"text": "I didn't do a payment and I have it now.", "label": 16}
+{"text": "I have just read my statement and there is a payment I don't recognise.", "label": 16}
+{"text": "Hello, i just checked my statement and there seems to be a payment from my card that I have never seen before.", "label": 16}
+{"text": "There is a payment that is not mine in the App.", "label": 16}
+{"text": "I received the wrong exchange rate for an item i bought.", "label": 17}
+{"text": "I bough an item and the exchange rate was incorrect.", "label": 17}
+{"text": "The exchange rate for my electronic payment is incorrect.", "label": 17}
+{"text": "The exchange rate you are using is bad.This can't be the official interbank exchange rate.", "label": 17}
+{"text": "I can't get my card out of the ATM", "label": 18}
+{"text": "How do I get a new card as your machine swallowed mine!", "label": 18}
+{"text": "The ATM machine ate my card.", "label": 18}
+{"text": "I can't get my card out of the ATM, what should I do now?", "label": 18}
+{"text": "What's up with the extra fee I got?", "label": 19}
+{"text": "What is the fee for a cash withdrawal?", "label": 19}
+{"text": "What was the extra charge for withdrawing money?", "label": 19}
+{"text": "I was charged extra when I made a cash withdraw, why?", "label": 19}
+{"text": "A WD was just made on my account, but it was not me and I still have my card.  What to do?", "label": 20}
+{"text": "There is a cash withdrawal from an ATM listed but I don't remember making this withdrawal.", "label": 20}
+{"text": "I hope you can help me. Someone has stolen my wallet and now I have noticed that they have been taking money from my account.", "label": 20}
+{"text": "Why is there extra cash in my account?", "label": 20}
+{"text": "Can I change my PIN without going to a bank branch?", "label": 21}
+{"text": "Are there cash machines where I can change my PIN?", "label": 21}
+{"text": "I want to change my PIN.", "label": 21}
+{"text": "Where can I update my pin number?", "label": 21}
+{"text": "I am not sure but someone else might be using my card", "label": 22}
+{"text": "I think my account has been hacked there are charges on there I don't recognize.", "label": 22}
+{"text": "The card has suffered a security breach.", "label": 22}
+{"text": "It looks like someone besides me ordered something with my card, what should I do?", "label": 22}
+{"text": "I can't get a contactless payment to work.", "label": 23}
+{"text": "How come when I tried to pay contactless at the bus it didnt work?", "label": 23}
+{"text": "Any charges applicable for new card?", "label": 23}
+{"text": "how to get new card?", "label": 23}
+{"text": "are there any country restrictions?", "label": 24}
+{"text": "Do you provide cards to people not in the UK?", "label": 24}
+{"text": "Are your cards available in the EU?", "label": 24}
+{"text": "I would like to know the countries you are offer services in?", "label": 24}
+{"text": "My card wasn't working in a shop", "label": 25}
+{"text": "Why would a card payment be declined?", "label": 25}
+{"text": "My card payment did not go through.", "label": 25}
+{"text": "My payment for my card is not working", "label": 25}
+{"text": "I tried to get money out of an ATM in Notting Hill earlier, but it didn't work. Is my card actually working? It's the first time I tried using it", "label": 26}
+{"text": "I am unable to get cash from the ATM", "label": 26}
+{"text": "Why is my ATM cash withdrawal not working?", "label": 26}
+{"text": "Where did my money go? I'm not able to withdraw it from my ATM.", "label": 26}
+{"text": "Can you tell me why my transfer declined?", "label": 27}
+{"text": "why did i get declined transfer", "label": 27}
+{"text": "Why would my transfer result in a decline message?", "label": 27}
+{"text": "I have transfered to my account before but it is being declined now?", "label": 27}
+{"text": "after going over my transactions for the last couple of months I noticed a pretty large charge that I know I did not make. I know it's been a while but can I still dispute this charge?", "label": 28}
+{"text": "Please tell me what this direct debit in my statement is", "label": 28}
+{"text": "I didn't initiate a direct debit that I see on my account", "label": 28}
+{"text": "Is it possible to dispute a debit payment from a couple of months ago.", "label": 28}
+{"text": "I need several cards per day. And I need to be able to throw away all of the cards I make.", "label": 29}
+{"text": "what is the amount of disposable cards I can have?", "label": 29}
+{"text": "How many times can I use a virtual card?", "label": 29}
+{"text": "I need to make several disposable cards per day.", "label": 29}
+{"text": "How can I change my information?", "label": 30}
+{"text": "how do i get into my account and edit my details", "label": 30}
+{"text": "How do I change my name?", "label": 30}
+{"text": "need my details changed", "label": 30}
+{"text": "where do i find out about exchange fees", "label": 31}
+{"text": "Are currency exchanges free?", "label": 31}
+{"text": "Is there a few for exchanging foreign currencies?", "label": 31}
+{"text": "Are there any fees when exchanging to foreign currencies?", "label": 31}
+{"text": "Do you know what your exchange rates are?", "label": 32}
+{"text": "What exchange rate is it?", "label": 32}
+{"text": "What foreign exchange rate will I get on weekdays and on the weekends?", "label": 32}
+{"text": "What is the source of your exchange rates?", "label": 32}
+{"text": "I want to exchange USD and GBP with the app", "label": 33}
+{"text": "I'm having difficulties changing AUD for GBP. How do I do this?", "label": 33}
+{"text": "I no longer need AUD, I need GBP instead, how can I make this happen?", "label": 33}
+{"text": "What different currencies can I get?", "label": 33}
+{"text": "Can you please explain to me why there is an extra €1 fee in my statement?", "label": 34}
+{"text": "Why is there a $1 charge on my statement?", "label": 34}
+{"text": "I was charged an extra pound for no reason. Why is that?", "label": 34}
+{"text": "Why is there a fee added to my statement?", "label": 34}
+{"text": "Why wouldn't a transfer go through?", "label": 35}
+{"text": "Your system is broken. My transfers keep failing, 5 times now.", "label": 35}
+{"text": "Can you please explain why my transfer failed?", "label": 35}
+{"text": "The attempted transfer failed.", "label": 35}
+{"text": "Is it possible to hold money in multiple currencies?", "label": 36}
+{"text": "What types of foreign money can be used with this service.?", "label": 36}
+{"text": "Can I exchange currency to Europe?", "label": 36}
+{"text": "What are my options for holding money in multiple currencies?", "label": 36}
+{"text": "How would I use a disposable card?", "label": 37}
+{"text": "How do I get a disposable virtual card as well?", "label": 37}
+{"text": "Can you help me get a disposable virtual card?", "label": 37}
+{"text": "can i get a virtual card online", "label": 37}
+{"text": "How is my PIN sent?", "label": 38}
+{"text": "Where is my PIN?", "label": 38}
+{"text": "How do I find my PIN?", "label": 38}
+{"text": "Tell me about the card PIN?", "label": 38}
+{"text": "I need a new card.", "label": 39}
+{"text": "Will I be charged if I add more cards to the account?", "label": 39}
+{"text": "Physical cards are what I need more of", "label": 39}
+{"text": "What should I do if I want to get another card for someone in my family?", "label": 39}
+{"text": "When will my virtual card arrive?", "label": 40}
+{"text": "Is there an alternative to a physical card?", "label": 40}
+{"text": "Can you help me find the virtual card?", "label": 40}
+{"text": "How do I go about getting a virtual card?", "label": 40}
+{"text": "oh my god I lost my card! what should I do?", "label": 41}
+{"text": "My card has been stolen. I reported it with the police, but I need to report it with you as well.", "label": 41}
+{"text": "My card is lost!  Please help me!", "label": 41}
+{"text": "How can I report that my card was stolen? I made a police report first.", "label": 41}
+{"text": "My phone was stolen, what should I do first?", "label": 42}
+{"text": "Someone stole my phone, what is my next step?", "label": 42}
+{"text": "My app was on the phone and I was mugged.  What do I do?", "label": 42}
+{"text": "my phone has been stolen by someone", "label": 42}
+{"text": "Where do I go to order my card?", "label": 43}
+{"text": "Is it possible to get a physical card?", "label": 43}
+{"text": "Where do you deliver cards to?", "label": 43}
+{"text": "I would like a card please.", "label": 43}
+{"text": "I tried entering my passcode and it isn't working. Can you help?", "label": 44}
+{"text": "Are there directions to get a new passcode if I forgot mine?", "label": 44}
+{"text": "I've forgotten my passcode. Can I reset?", "label": 44}
+{"text": "I am unaware of what my password is.", "label": 44}
+{"text": "How long does a payment show as pending before i should worry about it?", "label": 45}
+{"text": "Why are the things I bought earlier today still showing as pending?", "label": 45}
+{"text": "My purchase from this morning still is pending.", "label": 45}
+{"text": "Why is the payment from my card still pending?", "label": 45}
+{"text": "How long will it take for my cash withdrawal to no longer show as pending?", "label": 46}
+{"text": "Hae there, I have a transaction that is in progress despite the fact that the ATM was not working, what do I do to avoid being charged?", "label": 46}
+{"text": "Why is the pending status on my cash withdrawal taking so long?", "label": 46}
+{"text": "What should I do if I see a withdrawal is pending?", "label": 46}
+{"text": "I'm waiting on a top-up, its still pending", "label": 47}
+{"text": "Something is wrong with the top up! I'm a regular customer and use your service all the time, usually this works but now it just shows up as pending", "label": 47}
+{"text": "i put money on my card and i dont see it on the balance", "label": 47}
+{"text": "Im trying to top up my card but it's still pending and it's been an hour. Is there any way to make it go through faster? Do I not have enough?", "label": 47}
+{"text": "Will my transfer be done soon?", "label": 48}
+{"text": "How long would does it take for a seller to receive an EU transfer if I bought something from them and sent them the money immediately?", "label": 48}
+{"text": "Transfers may show up as pending for up to one day while they are processed by one of our payment processors. Then, they will depart for the beneficiary accounts. Please also double-check that you have entered the correct account details. SEPA transfers can take up to two business days, and SWIFT transfers can take up to five business days.", "label": 48}
+{"text": "How long do EU transfers actually take? I recently bought something online a few days ago, sent the money immediately online but the seller says it's still not there yet.", "label": 48}
+{"text": "My account is locked because I used the wrong pin too many times.  Please help.p", "label": 49}
+{"text": "Can I use app to unblock my card?", "label": 49}
+{"text": "Will you help me unblock my pin after putting in the wrong pin too many times?", "label": 49}
+{"text": "Why was my PIN blocked?", "label": 49}
+{"text": "I would like to know how my friend would be able to send me money", "label": 50}
+{"text": "How can I configure what currency my salary is in if it's in GBP?", "label": 50}
+{"text": "Is it ok for a friend to send me money?", "label": 50}
+{"text": "Can friends transfer money to each other?", "label": 50}
+{"text": "I did all that was asked of me and I am rather frustrated. I don't understand why you just won't credit me my money back. I have contacted the seller and nothing has been done. It's been a week!", "label": 51}
+{"text": "Can you tell me why a refund I'm owed is not showing on my statement?", "label": 51}
+{"text": "Why hasn't my refund appeared on my statement?", "label": 51}
+{"text": "Why isn't my refund shown on my statement?", "label": 51}
+{"text": "do you offer refunds? i would like to return purchase.", "label": 52}
+{"text": "Hey, I ordered a thing but changed my mind and want a refund on it. Since I haven't received the thing, would you just go ahead and cancel the payment for me?", "label": 52}
+{"text": "How can i get a refund for something i just bought?", "label": 52}
+{"text": "I bought something and now I want a refund.", "label": 52}
+{"text": "Tell me why my card payment would be reverted.", "label": 53}
+{"text": "How can I tell if my card payment is reverted?", "label": 53}
+{"text": "Hello,  I noticed the money for an item I purchased online and have already received has been returned to my checking account. Was there an issue with the merchant accepting my payment? Or, possibly, with the bank sending it?", "label": 53}
+{"text": "I wanted to purchase something online but the payment was returned back to me. This has been going on for a couple of weeks. Please tell me what is going on here?", "label": 53}
+{"text": "I have a second credit card from the US. Will you take it?", "label": 54}
+{"text": "What payment methods are used to top up?", "label": 54}
+{"text": "Which foreign currencies do you accept for adding money?", "label": 54}
+{"text": "Can I electronically transfer funds into my account from my American Express?", "label": 54}
+{"text": "How can I delete my account?", "label": 55}
+{"text": "I want to deactivate my account.", "label": 55}
+{"text": "I hate this company! Can you delete my account?", "label": 55}
+{"text": "I want to cancel my account.", "label": 55}
+{"text": "Is there a fee for a SEPA transfer", "label": 56}
+{"text": "Will I be charged for a top off transfer?", "label": 56}
+{"text": "do you have a fee for receiving a SEPA transfer?", "label": 56}
+{"text": "why do you charge for transfers?", "label": 56}
+{"text": "I topped off my card is that something you will charge me for?", "label": 57}
+{"text": "how much for topping up by card?", "label": 57}
+{"text": "Are there any charges for top ups?", "label": 57}
+{"text": "What are the top-up fees for my card?", "label": 57}
+{"text": "Help, I need to top up my account. Where do I send a check?", "label": 58}
+{"text": "Do you accept cheques for top-up?", "label": 58}
+{"text": "Is there a way to use a cheque to top up my account?", "label": 58}
+{"text": "Is there somewhere I can send a check to add to my account?", "label": 58}
+{"text": "Why has my top-up been denied?", "label": 59}
+{"text": "I can't get the top-up to work! What's going on here.", "label": 59}
+{"text": "I tried to top-up, why didn't it work?", "label": 59}
+{"text": "My top-up was declined", "label": 59}
+{"text": "How often can I top up my account?", "label": 60}
+{"text": "what is the most money i can top up?", "label": 60}
+{"text": "What is the maximum I can top up?", "label": 60}
+{"text": "is there a limit to top up", "label": 60}
+{"text": "What happened to the money that I deposited?", "label": 61}
+{"text": "I thought you offer crypto top up but it doesn't seem to be right ? Money just disappeared from my account, How it would work ?", "label": 61}
+{"text": "Can you tell me why my top-up was canceled?", "label": 61}
+{"text": "Please help me, as my topup amount has been reverted, i did it correctly. I think there is some defect in system.", "label": 61}
+{"text": "Who can have access to top up my account?", "label": 62}
+{"text": "Is my account able to be topped up by my friends?", "label": 62}
+{"text": "Is it simple to transfer money using my credit card?", "label": 62}
+{"text": "top up by my card is that possible?", "label": 62}
+{"text": "Why does my statement show various transaction times?", "label": 63}
+{"text": "There is a repeat charge for the same item", "label": 63}
+{"text": "I only made one transaction at this place, but it's appearing multiple times.", "label": 63}
+{"text": "Hi. I noticed I have a duplicate charge which I have not made twice. Who should I talk to take care of this?", "label": 63}
+{"text": "I thought you guys offered free transfers. Why was I charged?", "label": 64}
+{"text": "I transferred money from one account to another account and I charged a fee for it. Why is that?", "label": 64}
+{"text": "How come a fee was charged when I tranferred money", "label": 64}
+{"text": "My transfer seems to be too expensive.", "label": 64}
+{"text": "How can I move money from an account at another bank to this one?", "label": 65}
+{"text": "Can you transfer money to your card by bank transfer?", "label": 65}
+{"text": "where do i go to transfer money from one account to this one", "label": 65}
+{"text": "Can I add money to my account via bank transfer?", "label": 65}
+{"text": "I'm getting concerned here.  I sent a friend some money and she isn't seeing it.  What's going on?", "label": 66}
+{"text": "My friend says he hasn't received my transaction", "label": 66}
+{"text": "Why hasn't my in country transfer gone through yet? I confirmed the account info a couple days ago but the payment hasn't been posted yet.", "label": 66}
+{"text": "Why isn't the recipient seeing the transaction? I just sent the money.", "label": 66}
+{"text": "How long do I have to wait for a US transfer?", "label": 67}
+{"text": "What is the timeframe for a transfer in Europe?", "label": 67}
+{"text": "I desperately need to transfer something from China, Please give me the wait time.", "label": 67}
+{"text": "Why hasn't the transfer shown up in my account yet?", "label": 67}
+{"text": "What should I do if I can't prove my identity.", "label": 68}
+{"text": "My identity verification didn't work", "label": 68}
+{"text": "My identity isn't being accepted, what should I do?", "label": 68}
+{"text": "Help me verify my identification.", "label": 68}
+{"text": "What proof of identification is needed?", "label": 69}
+{"text": "What are the steps for identity checks?", "label": 69}
+{"text": "What has to be done to verify my identity?", "label": 69}
+{"text": "Where can I go to find out how to verify my identity?", "label": 69}
+{"text": "How do I know where my funds come from?", "label": 70}
+{"text": "Where did my deposit for my source of funds come from?", "label": 70}
+{"text": "Where can I check to see where the money in my account came from?", "label": 70}
+{"text": "Can I check to see where the funds came from?", "label": 70}
+{"text": "Why verify the top-ups?", "label": 71}
+{"text": "How do I verify the top-up card?", "label": 71}
+{"text": "Verifying the top-up seems like a hassle.", "label": 71}
+{"text": "I'm being asked for a verification code. Where do I find it?", "label": 71}
+{"text": "My Virtual card was rejected for a car rental. Why?", "label": 72}
+{"text": "Why can't I make multiple payments with my virtual card?", "label": 72}
+{"text": "I have a disposable card but it does not work?", "label": 72}
+{"text": "I can't get the virtual card to work", "label": 72}
+{"text": "How can get a Visa card?", "label": 73}
+{"text": "Visa or Mastercard?", "label": 73}
+{"text": "Can I choose what card I can use", "label": 73}
+{"text": "Can I pick between Visa and Mastercard?", "label": 73}
+{"text": "I'm not verifying my identity.", "label": 74}
+{"text": "which identity details are required", "label": 74}
+{"text": "Why do you need to know so much about me for my account?", "label": 74}
+{"text": "Can I make transfers before my identity verification?", "label": 74}
+{"text": "What happens if the ATM gives me the wrong amount of money?", "label": 75}
+{"text": "I went tot the ATM earlier today and didn't realize this till now but I did not get all the money I requested.  I believe my account was charged for 100 but I only got 80.  Is there any way we can solve this problem?", "label": 75}
+{"text": "Can you explain why the ATM is giving me less money than what I asked for?", "label": 75}
+{"text": "When I went to $100, all the machine would give me was $20.", "label": 75}
+{"text": "The exchange rate for me was wrong when I was abroad.", "label": 76}
+{"text": "Hello, in these holidays i have been overcharged on the amount i have withdrawn on one of your ATMs. I did not had any clue about the horrible charges otherwise i would not have withdrawn.", "label": 76}
+{"text": "Can I get money in my home currency at an ATM? I'm on vacation and don't have cash with me. This is cause for a bit of concern. Is it possible to withdraw here without additional cost?", "label": 76}
+{"text": "Why did my exchange rate change?", "label": 76}

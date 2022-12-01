@@ -1,0 +1,1 @@
+{"task_name": "trec", "benchmark_name": "huggingface", "output_dir": "./custom_datasets", "overwrite_output_dir": true, "seed": 915, "n_samples": 32, "balance_sample": true, "verbalizer": {"ENTY": 1, "ABBR": 2, "HUM": 3, "NUM": 4, "LOC": 5}}

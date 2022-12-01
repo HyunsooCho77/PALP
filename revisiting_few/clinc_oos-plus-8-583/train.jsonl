@@ -1,0 +1,1200 @@
+{"text": "at yakamoto how is their sushi", "intent": 0}
+{"text": "how good are the ratings for the olive garden", "intent": 0}
+{"text": "how are the reviews for la loconda", "intent": 0}
+{"text": "what do people think about the sandwiches at wendy's", "intent": 0}
+{"text": "give me the reviews for chipotle", "intent": 0}
+{"text": "tell me the reviews for bjs", "intent": 0}
+{"text": "what are the reviews for mountain mikes", "intent": 0}
+{"text": "does bjs get good reviews", "intent": 0}
+{"text": "what's the nutritional info for a cheeseburger", "intent": 1}
+{"text": "i'd like to know the nutritional content of eggs, please", "intent": 1}
+{"text": "how healthy is stax chips", "intent": 1}
+{"text": "tell me how healthy mac and cheese is", "intent": 1}
+{"text": "is spaghetti healthy", "intent": 1}
+{"text": "what are the nutrition facts for a mcdouble at mcdonalds", "intent": 1}
+{"text": "what are the nutrition facts for a rodeo cheese burger at burger king", "intent": 1}
+{"text": "what's the nutritional value for a pizza lunchable", "intent": 1}
+{"text": "why'd they put a freeze on my bank account", "intent": 2}
+{"text": "what was the reason my bank account was frozen", "intent": 2}
+{"text": "what's the deal with my bank account being locked", "intent": 2}
+{"text": "i'm confused about the reason for my bank account being frozen", "intent": 2}
+{"text": "why did my bank account freeze", "intent": 2}
+{"text": "can you find out what triggered a hold on my bank account", "intent": 2}
+{"text": "i don't understand why i have been barred from accessing my own account", "intent": 2}
+{"text": "why is there a block on my account", "intent": 2}
+{"text": "i'm due for an oil change and need assistance doing it and also need to know what kind of oil the car takes", "intent": 3}
+{"text": "how can i change my oil in my car", "intent": 3}
+{"text": "what is the way to change motor oil", "intent": 3}
+{"text": "is it easy to change the oil in my car", "intent": 3}
+{"text": "what are the procedures for changing my oil", "intent": 3}
+{"text": "steps to change car oil", "intent": 3}
+{"text": "what kinds of oil can i use in my car, and how to i change the oil", "intent": 3}
+{"text": "can you tell me the steps to change the oil in my car", "intent": 3}
+{"text": "i need to know what time it is in florida", "intent": 4}
+{"text": "can you give me the time", "intent": 4}
+{"text": "what is the current est time", "intent": 4}
+{"text": "how is the time", "intent": 4}
+{"text": "have you the time", "intent": 4}
+{"text": "what time is it right now in cst", "intent": 4}
+{"text": "what time is it in new york", "intent": 4}
+{"text": "what is the time now", "intent": 4}
+{"text": "tell me today's weather forecast", "intent": 5}
+{"text": "what's the temperature like in tampa", "intent": 5}
+{"text": "what is miami weather like", "intent": 5}
+{"text": "please tell me the weather forecast", "intent": 5}
+{"text": "what is the weather forecast for seattle", "intent": 5}
+{"text": "when will it rain next", "intent": 5}
+{"text": "what's the forecast like for pittsburgh", "intent": 5}
+{"text": "what does the forecast look like", "intent": 5}
+{"text": "call my credit card company and ask can i use my points", "intent": 6}
+{"text": "i'd like to redeem my credit card points", "intent": 6}
+{"text": "how can i redeem my credit card points", "intent": 6}
+{"text": "walk me through the process of cashing in on credit card points", "intent": 6}
+{"text": "what's the way to cash in my rewards for my citibank card", "intent": 6}
+{"text": "tell me how to use credit card points", "intent": 6}
+{"text": "do you think i could get a target gift card with my credit card points", "intent": 6}
+{"text": "do i have enough credit card points to redeem a new appliance", "intent": 6}
+{"text": "if i'm using citibank, what is the interest rate", "intent": 7}
+{"text": "what's my interest rate", "intent": 7}
+{"text": "what is the interest rate on my chase slate credit card", "intent": 7}
+{"text": "i need to find the interest rate for my checking account", "intent": 7}
+{"text": "is there any info on my savings interest rate online", "intent": 7}
+{"text": "what is the interest rate i can get from the beginning of next year", "intent": 7}
+{"text": "i want to know td banks interest rates", "intent": 7}
+{"text": "do you know what the interest rate is on my account", "intent": 7}
+{"text": "what kind of fuel does my vehicle run on", "intent": 8}
+{"text": "what gas is needed for the car", "intent": 8}
+{"text": "will this car run on the cheaper gas", "intent": 8}
+{"text": "i wanna know the gad i need to fill this car up with", "intent": 8}
+{"text": "tell me the right kind of gas for this car", "intent": 8}
+{"text": "tell me what type of gas this car uses", "intent": 8}
+{"text": "i want to know the type of gasoline for this car", "intent": 8}
+{"text": "tell me the kind of fuel that my vehicle operates on", "intent": 8}
+{"text": "does pizzeria delfina in san francisco take reservations", "intent": 9}
+{"text": "can you make reservations at steak 'n' shake", "intent": 9}
+{"text": "does sidetracks take reservations", "intent": 9}
+{"text": "do you know if ruth chris does reservations", "intent": 9}
+{"text": "does luigi's take reservations", "intent": 9}
+{"text": "can you make reservations at hodak's", "intent": 9}
+{"text": "does the zen garden in la take reservations", "intent": 9}
+{"text": "can i make a reservation at michael's", "intent": 9}
+{"text": "please set the temperature to 80", "intent": 10}
+{"text": "activate my furnace please", "intent": 10}
+{"text": "put the lights on low", "intent": 10}
+{"text": "turn tv on please", "intent": 10}
+{"text": "switch fan", "intent": 10}
+{"text": "please turn the fan on", "intent": 10}
+{"text": "can you please turn the fan on", "intent": 10}
+{"text": "turn the furnace on please", "intent": 10}
+{"text": "what is my name saved under", "intent": 11}
+{"text": "what name do you refer to me as", "intent": 11}
+{"text": "i want you to guess my name", "intent": 11}
+{"text": "please tell me the name you use for me", "intent": 11}
+{"text": "can you tell me what your refer to me as", "intent": 11}
+{"text": "what do you have my name saved under", "intent": 11}
+{"text": "tell me what you believe my name to be", "intent": 11}
+{"text": "who do you think i am", "intent": 11}
+{"text": "report lost card to discover company", "intent": 12}
+{"text": "i am obliged to report my stolen card", "intent": 12}
+{"text": "file a report for a lost american express card", "intent": 12}
+{"text": "my credit card has been stolen, please report it", "intent": 12}
+{"text": "i would like to report my card as stolen, please", "intent": 12}
+{"text": "i want you to repord my card as lost", "intent": 12}
+{"text": "how do i report a lost card", "intent": 12}
+{"text": "what should i do if my card is lost", "intent": 12}
+{"text": "i couldn't hear you, can you repeat it", "intent": 13}
+{"text": "i would like that repeated", "intent": 13}
+{"text": "can you say what you just said again", "intent": 13}
+{"text": "i didn't hear say it again please", "intent": 13}
+{"text": "i want that repeated", "intent": 13}
+{"text": "i need that repeated", "intent": 13}
+{"text": "i am needing for you to say that again", "intent": 13}
+{"text": "would you repeat that, please", "intent": 13}
+{"text": "please switch to whisper mode", "intent": 14}
+{"text": "i can't be loud and need you to speak more quietly", "intent": 14}
+{"text": "i want whisper mode to be switched off", "intent": 14}
+{"text": "switch to whisper mode, please", "intent": 14}
+{"text": "can you switch out of whisper mode", "intent": 14}
+{"text": "i need you to switch to whisper mode", "intent": 14}
+{"text": "switch to the whisper mode", "intent": 14}
+{"text": "is it possible for you to use the whisper voice", "intent": 14}
+{"text": "what are some things that you enjoy", "intent": 15}
+{"text": "i would like to know what hobbies you enjoy", "intent": 15}
+{"text": "what are your favorite hobbies", "intent": 15}
+{"text": "what do you do in your down time", "intent": 15}
+{"text": "what hobbies do you like to partake in", "intent": 15}
+{"text": "what kind of things do you do when you have free time", "intent": 15}
+{"text": "what do you like to do for fun", "intent": 15}
+{"text": "what kinds of hobbies do you enjoy", "intent": 15}
+{"text": "i want my entire shopping list ordered", "intent": 16}
+{"text": "can you buy me a toy car", "intent": 16}
+{"text": "i need you to buy a mouse for me", "intent": 16}
+{"text": "can you order more chapstick i am all out", "intent": 16}
+{"text": "i'm out of paper plates so will you order me some more", "intent": 16}
+{"text": "i require another filter so can you order me another one", "intent": 16}
+{"text": "purchase all the things on my shopping list", "intent": 16}
+{"text": "i'm out of cat food, order more", "intent": 16}
+{"text": "can you tell me how to jump start the car", "intent": 17}
+{"text": "what's the method of jumping my car", "intent": 17}
+{"text": "what do you need to jump a car", "intent": 17}
+{"text": "what's the best way to jump start a kia", "intent": 17}
+{"text": "show me the way to jump start a battery", "intent": 17}
+{"text": "tell me how to jump start my dead battery", "intent": 17}
+{"text": "how do i jump start a battery", "intent": 17}
+{"text": "whats the best way to jump start a battery", "intent": 17}
+{"text": "would you schedule a meeting with carrie and lisa please", "intent": 18}
+{"text": "can i book a meeting room from 2:00 pm to 3:00 pm", "intent": 18}
+{"text": "set a meeting with tom for 5:30 tomorrow", "intent": 18}
+{"text": "i want to schedule a meeting with tom for 6pm", "intent": 18}
+{"text": "i need a meeting room at 2pm on friday", "intent": 18}
+{"text": "tell me how i can schedule a meeting", "intent": 18}
+{"text": "is there an open meeting room between 2 and 4", "intent": 18}
+{"text": "are there meeting rooms available between 10-11", "intent": 18}
+{"text": "have i got any meetings today with sara", "intent": 19}
+{"text": "meetings today", "intent": 19}
+{"text": "what meetings are on my calendar", "intent": 19}
+{"text": "do you see any meetings with john on my schedule today", "intent": 19}
+{"text": "tell me how many meetings with pete i have for today", "intent": 19}
+{"text": "do i have any meetings with mark today", "intent": 19}
+{"text": "what time is my meeting with steve", "intent": 19}
+{"text": "when is my meeting with dan scheduled for", "intent": 19}
+{"text": "i would like a block put on my chase account asap", "intent": 20}
+{"text": "i'd like to put a freeze on my bank account", "intent": 20}
+{"text": "i need to hold off on my account", "intent": 20}
+{"text": "put a block on my amalgamated bank account right now", "intent": 20}
+{"text": "block my citibank account right away", "intent": 20}
+{"text": "please set my account as frozen", "intent": 20}
+{"text": "can you notify the bank to put a stop on my account", "intent": 20}
+{"text": "please put a block on my td ameritrade account now", "intent": 20}
+{"text": "i need to know this song's name", "intent": 21}
+{"text": "what's the current song that we are listening at this time", "intent": 21}
+{"text": "what track am i listening to", "intent": 21}
+{"text": "do you know the name of this song", "intent": 21}
+{"text": "what am i hearing on the speakers now", "intent": 21}
+{"text": "can you name the song on the speakers", "intent": 21}
+{"text": "tell me the song title", "intent": 21}
+{"text": "whats the title of this", "intent": 21}
+{"text": "would you tell me the meaning of life, please", "intent": 22}
+{"text": "what is your explanation for the meaning of life", "intent": 22}
+{"text": "what is the meaning of life here", "intent": 22}
+{"text": "what makes life have any meaning", "intent": 22}
+{"text": "i need to know the point of life", "intent": 22}
+{"text": "the meaning of life please", "intent": 22}
+{"text": "what is your version on the meaning of life", "intent": 22}
+{"text": "what is life’s meaning", "intent": 22}
+{"text": "you need to call the melt in lakewood for a table for at 2:00, monday, the first week in march", "intent": 23}
+{"text": "call and make a 5:45 pm reservation for jason rogers, table for four", "intent": 23}
+{"text": "reserve a table for 5 at lawry's under the name steve at 8:00pm", "intent": 23}
+{"text": "hello, i'd like a reservation for two at the olive garden at six tonight", "intent": 23}
+{"text": "is it possible to book a room at the taco bell for reavers at 3", "intent": 23}
+{"text": "give me a table for 3 at o'reilly's bar for 7 please", "intent": 23}
+{"text": "you have to reserve a table for 4 at red robin under the name kevin at 7", "intent": 23}
+{"text": "can i make a reservation for 2 at state bird for 8:30, please", "intent": 23}
+{"text": "is the beltway backed up in traffic on saturday mornings at 11 am during the cherry festival", "intent": 24}
+{"text": "i wanna know what the traffic is like on the way to phoenix", "intent": 24}
+{"text": "how is the traffic on the way to work", "intent": 24}
+{"text": "how is the traffic at the nearest wal-mart pharmacy", "intent": 24}
+{"text": "if i'm heading to the mall at 5:00, what will the traffic be like", "intent": 24}
+{"text": "if im traveling to the hospital around noon what is the traffic typically like", "intent": 24}
+{"text": "i'm going to the mall at 5:00 what will traffic be like", "intent": 24}
+{"text": "how's traffic en route to virginia", "intent": 24}
+{"text": "i have to call jane", "intent": 25}
+{"text": "place call to robby", "intent": 25}
+{"text": "put me on a call to sally", "intent": 25}
+{"text": "please dial christie's number", "intent": 25}
+{"text": "can you call dominos pizza", "intent": 25}
+{"text": "call erryn", "intent": 25}
+{"text": "dial sarah", "intent": 25}
+{"text": "call mymother", "intent": 25}
+{"text": "create a new text message", "intent": 26}
+{"text": "can you text marissa and tell them to stop calling me", "intent": 26}
+{"text": "please send a text", "intent": 26}
+{"text": "text billy and tell him to be at monday's meeting at 3pm", "intent": 26}
+{"text": "send a message to mom be there soon", "intent": 26}
+{"text": "text roderick and tell him im running late", "intent": 26}
+{"text": "text message chris and say i love you", "intent": 26}
+{"text": "send mom a text asking where are you", "intent": 26}
+{"text": "do i have any due bills and how much", "intent": 27}
+{"text": "how much is my current cable bill for", "intent": 27}
+{"text": "how much do i have on credit card bill", "intent": 27}
+{"text": "how much in total do i need to pay cox and at&t", "intent": 27}
+{"text": "what's the sum of all i owe on bills this month", "intent": 27}
+{"text": "how much do i need to pay on my bills", "intent": 27}
+{"text": "how much do i owe on bills", "intent": 27}
+{"text": "how much on bills to i have to pay", "intent": 27}
+{"text": "how can i make my credit score better", "intent": 28}
+{"text": "can i improve my credit score", "intent": 28}
+{"text": "are there ways for me to make my credit score better", "intent": 28}
+{"text": "what are the best ways to build my credit score", "intent": 28}
+{"text": "what are some mistakes to avoid so that my credit score stays high", "intent": 28}
+{"text": "what methods can i use to improve my credit score", "intent": 28}
+{"text": "what are some ways to increase my credit", "intent": 28}
+{"text": "what do i do to stop my credit score from going lower", "intent": 28}
+{"text": "set your language setting to english", "intent": 29}
+{"text": "let's change the language for you", "intent": 29}
+{"text": "alter your language choice to dutch", "intent": 29}
+{"text": "can you talk to me in italian", "intent": 29}
+{"text": "how can we start communicating in french rather than english", "intent": 29}
+{"text": "i need to change the language to french", "intent": 29}
+{"text": "i need to switch the language for your responses", "intent": 29}
+{"text": "i want to edit the language", "intent": 29}
+{"text": "i do not think that is true, so i would say it is a false statement", "intent": 30}
+{"text": "that is overwhelmingly false", "intent": 30}
+{"text": "false for sure", "intent": 30}
+{"text": "i would have to say the answer to that is no", "intent": 30}
+{"text": "that's inaccurate", "intent": 30}
+{"text": "nope, that's false", "intent": 30}
+{"text": "i don't like that, no", "intent": 30}
+{"text": "no, that can't be right", "intent": 30}
+{"text": "how many centimeters are in 4 inches", "intent": 31}
+{"text": "can you convert 2 inches into meters", "intent": 31}
+{"text": "how many meters are in 50 feet", "intent": 31}
+{"text": "how many kilos are in 25 pounds", "intent": 31}
+{"text": "what would be the conversion between tablespoons and teaspoons", "intent": 31}
+{"text": "tell me how many teaspoons are in two cups", "intent": 31}
+{"text": "what is 15 ounces in grams", "intent": 31}
+{"text": "what is 10 ounces in grams, please", "intent": 31}
+{"text": "create a timer for me", "intent": 32}
+{"text": "set a timer for two minutes", "intent": 32}
+{"text": "can you set a timer for two minutes", "intent": 32}
+{"text": "please start counting down from 10 minutes", "intent": 32}
+{"text": "please set a timer for 6 minutes", "intent": 32}
+{"text": "how do i set a timer", "intent": 32}
+{"text": "please set a 4 minute timer", "intent": 32}
+{"text": "set an alarm for nine minutes from now", "intent": 32}
+{"text": "flip a two sided coin and tell me what it lands on", "intent": 33}
+{"text": "flip that coin please, i choose heads", "intent": 33}
+{"text": "heads or tails please", "intent": 33}
+{"text": "i need to do a fair coin flip", "intent": 33}
+{"text": "perform a coin flip", "intent": 33}
+{"text": "i need you to flip a coin so i can decide", "intent": 33}
+{"text": "i call tails for a coin flip you need to do right now", "intent": 33}
+{"text": "flip a coin for me i call tails", "intent": 33}
+{"text": "do you have any domestic animals", "intent": 34}
+{"text": "do you have pets", "intent": 34}
+{"text": "tell me about your pets", "intent": 34}
+{"text": "would you let me know if you are a cat or dog person", "intent": 34}
+{"text": "what types of pets do you own", "intent": 34}
+{"text": "let me know about your pets", "intent": 34}
+{"text": "so are cats and dogs liked by you", "intent": 34}
+{"text": "share some information about your pets with me", "intent": 34}
+{"text": "please find my balance on my chase mastercard", "intent": 35}
+{"text": "tell me my payroll account balance", "intent": 35}
+{"text": "i want to get a new shirt; will the money in my td ameritrade account cover it", "intent": 35}
+{"text": "what is the total of my bank accounts", "intent": 35}
+{"text": "how much is the current balance in my td bank savings account", "intent": 35}
+{"text": "what is my bank balance", "intent": 35}
+{"text": "what's the balance of my bank accounts", "intent": 35}
+{"text": "i'd like to know my bank balance please", "intent": 35}
+{"text": "would you tell me a joke", "intent": 36}
+{"text": "do you know any good jokes about lawyers", "intent": 36}
+{"text": "could you please share a joke with me", "intent": 36}
+{"text": "what funny jokes do you know", "intent": 36}
+{"text": "tell me something funny about americans", "intent": 36}
+{"text": "i want to hear you tell a joke", "intent": 36}
+{"text": "can you tell me a joke about politicians", "intent": 36}
+{"text": "could you share a joke", "intent": 36}
+{"text": "i need to know when it was that i last took my car to have the oil changed", "intent": 37}
+{"text": "when did i go to the mechanic", "intent": 37}
+{"text": "how long has it been since my car was last looked at", "intent": 37}
+{"text": "i need to know the date of my car's last visit to the shop please", "intent": 37}
+{"text": "how long ago did my car get looked at", "intent": 37}
+{"text": "when did i take my car to paul's auto last", "intent": 37}
+{"text": "i need to know when i last took my car in for a check up", "intent": 37}
+{"text": "when did i last have my car fixed", "intent": 37}
+{"text": "what is the yen worth in terms of the peso", "intent": 38}
+{"text": "can you tell me today's rate for cad to usd", "intent": 38}
+{"text": "tell me the exchange rate between dollars and pesos", "intent": 38}
+{"text": "can you tell me dollars to franks", "intent": 38}
+{"text": "can you tell me the exchange rate for yen to euros", "intent": 38}
+{"text": "whats euros kroner in 25", "intent": 38}
+{"text": "what's the currency conversion between rubles and dollars", "intent": 38}
+{"text": "let me know what the exchange rate between dollars and pesos is", "intent": 38}
+{"text": "assist me with finding an uber to big ben", "intent": 39}
+{"text": "i need an uber for 3 passengers to go to madison square garden", "intent": 39}
+{"text": "i need to catch an uber to cal expo", "intent": 39}
+{"text": "book an uber for 6 people to go to the movies", "intent": 39}
+{"text": "can i get a car to the baseball field for 12", "intent": 39}
+{"text": "can you call an uber for 2 to go to proof on main", "intent": 39}
+{"text": "schedule me an uber to the mall", "intent": 39}
+{"text": "i need an uber", "intent": 39}
+{"text": "id like a car rental between january 1st to the 3rd in denver, id like a ford", "intent": 40}
+{"text": "how can i rent a car in boston", "intent": 40}
+{"text": "can you help me book a car rental in paris", "intent": 40}
+{"text": "i'd like to rent a vehicle from nov 1st to nov 15th in san antonio and i need a 15 passenger van", "intent": 40}
+{"text": "will car rentals be available in boston from march 2 to march 4", "intent": 40}
+{"text": "can i rent a car in belgium from march 01 to march 02 and have it be a porsche", "intent": 40}
+{"text": "i will be in boston from march 2 to march 4 can i rent a car for that time", "intent": 40}
+{"text": "is it possible to rent a car from laguardia from tuesday to friday", "intent": 40}
+{"text": "will you let me know what my spending limit is", "intent": 41}
+{"text": "how high is my credit limit for my american express card", "intent": 41}
+{"text": "what's my limit on my visa card", "intent": 41}
+{"text": "look up the credit limit for my visa", "intent": 41}
+{"text": "let me know the credit limit for my credit card", "intent": 41}
+{"text": "do you know my credit limit for the visa card", "intent": 41}
+{"text": "can you let me know what my credit limit is for my visa card", "intent": 41}
+{"text": "what is the current credit limit i have on my wells fargo mastercard", "intent": 41}
+{"text": "set the volume to 4 please", "intent": 42}
+{"text": "limit your volume", "intent": 42}
+{"text": "please increase volume", "intent": 42}
+{"text": "please set the volume to 4", "intent": 42}
+{"text": "turn up the volume level to 4", "intent": 42}
+{"text": "raise the volume to 4 please", "intent": 42}
+{"text": "can you please turn the volume to 4", "intent": 42}
+{"text": "lower your volume", "intent": 42}
+{"text": "i need to know what i have on my shopping list", "intent": 43}
+{"text": "tell me what's on my shopping list", "intent": 43}
+{"text": "do i have a big shopping list", "intent": 43}
+{"text": "what products are on my shopping list", "intent": 43}
+{"text": "what all do i have on my shopping list", "intent": 43}
+{"text": "read my entire shopping list to me", "intent": 43}
+{"text": "what is available on the shopping list", "intent": 43}
+{"text": "did i put milk on the shopping list", "intent": 43}
+{"text": "tell me the expiry month of my card", "intent": 44}
+{"text": "what is the month of my card's expiration date", "intent": 44}
+{"text": "can you tell me what date my credit card expires", "intent": 44}
+{"text": "is my card set to expire soon", "intent": 44}
+{"text": "which month is the one in which my card expires", "intent": 44}
+{"text": "please tell me the month and year of expiration for my discover card", "intent": 44}
+{"text": "when is the expiration date for my discover card", "intent": 44}
+{"text": "what's the exact date that my chase card will no longer work", "intent": 44}
+{"text": "inform me of the routing number for my amerifirst account", "intent": 45}
+{"text": "how do i locate my routing number for tax reasons", "intent": 45}
+{"text": "what's the routing number for my chase account", "intent": 45}
+{"text": "show me the routing number for chase", "intent": 45}
+{"text": "do you know where i can find my suntrust routing number", "intent": 45}
+{"text": "let me know my bank of america routing number", "intent": 45}
+{"text": "tell me my bank routing number", "intent": 45}
+{"text": "i need the routing number to my chase checking account", "intent": 45}
+{"text": "help me decide what mexican meal i want", "intent": 46}
+{"text": "can you give me a vietnamese dinner suggestion", "intent": 46}
+{"text": "please suggest a meal from italy to me", "intent": 46}
+{"text": "which mexican meal would be good", "intent": 46}
+{"text": "what meal from italy do you suggest", "intent": 46}
+{"text": "i need a mexican meal suggesstion", "intent": 46}
+{"text": "suggest a meal from india to me", "intent": 46}
+{"text": "do you know any greek dishes i could make for dinner", "intent": 46}
+{"text": "when ought i get my tires changed next", "intent": 47}
+{"text": "how many more miles can i drive before changing my tires", "intent": 47}
+{"text": "what signs should i look for to know if i should change my tires", "intent": 47}
+{"text": "should i change my tires", "intent": 47}
+{"text": "when is it recommended that i change my tires next", "intent": 47}
+{"text": "how many times a year should i change my tires", "intent": 47}
+{"text": "are my tires due to be changed soon", "intent": 47}
+{"text": "when's the next time i should change my tires", "intent": 47}
+{"text": "can you tell me the tasks on my to-do list", "intent": 48}
+{"text": "does my errand list have goodwill on it", "intent": 48}
+{"text": "what is on my to do list", "intent": 48}
+{"text": "i wonder what my to-do list looks like for today", "intent": 48}
+{"text": "i need to know if sorting the mail is on my to do list", "intent": 48}
+{"text": "i need my todo list read", "intent": 48}
+{"text": "have i set aside a time on my to do list to do my taxes", "intent": 48}
+{"text": "i need to know everything on my to do list currently", "intent": 48}
+{"text": "trying to buy a mug from target but my card declined", "intent": 49}
+{"text": "why did my card not get accepted please", "intent": 49}
+{"text": "i was at whole foods trying to buy groceries and my card got declined", "intent": 49}
+{"text": "i was at trader joe's trying to buy groceries and my card got declined", "intent": 49}
+{"text": "can you tell me why walmart declined my card", "intent": 49}
+{"text": "yesterday, my card was declined", "intent": 49}
+{"text": "why did you decline my card at sfo", "intent": 49}
+{"text": "at walmart my card got declined when i was buyng qtips", "intent": 49}
+{"text": "where are my rewards for my chase card", "intent": 50}
+{"text": "i need to hear how many points i've obtained on my capital one visa", "intent": 50}
+{"text": "how many rewards points do i have for my amazon card", "intent": 50}
+{"text": "what is the total amount of my starbucks rewards balance", "intent": 50}
+{"text": "can you tell me how many points i have on my kohls card", "intent": 50}
+{"text": "how can i look at rewards for my amex card", "intent": 50}
+{"text": "what is my wells fargo card's rewards balance", "intent": 50}
+{"text": "can you tell me my starbucks rewards balance", "intent": 50}
+{"text": "do a british male accent only", "intent": 51}
+{"text": "can you do a british male accent", "intent": 51}
+{"text": "please use your female voice", "intent": 51}
+{"text": "can you swap to male voice", "intent": 51}
+{"text": "use your male voice", "intent": 51}
+{"text": "switch to british male accent", "intent": 51}
+{"text": "if you can do accents, i want to hear you talk like david bowie", "intent": 51}
+{"text": "use female voice now instead", "intent": 51}
+{"text": "are vaccinations necessary to go there", "intent": 52}
+{"text": "please tell me what shots i am required to get to travel to india", "intent": 52}
+{"text": "what vaccinations are required to enter paris from outside the country", "intent": 52}
+{"text": "which countries require vaccinations before entering for travel", "intent": 52}
+{"text": "what are the necessary shots for travel to africa", "intent": 52}
+{"text": "do i need certain shots before flying to eithiopia", "intent": 52}
+{"text": "would i need any immunization if i go to thailand", "intent": 52}
+{"text": "do i need special shots to go to africa", "intent": 52}
+{"text": "remind me friday to call my mother", "intent": 53}
+{"text": "i want you to remind me of something", "intent": 53}
+{"text": "set a reminder to go dress shopping", "intent": 53}
+{"text": "set a reminder to go check the mail", "intent": 53}
+{"text": "will you add a reminder for me", "intent": 53}
+{"text": "could you make me a reminder to do the floors", "intent": 53}
+{"text": "set up a reminder to give the cat her flea medicine", "intent": 53}
+{"text": "i would like to be reminded", "intent": 53}
+{"text": "how long can i have pizza in the fridge", "intent": 54}
+{"text": "is there a limit to how long you can store bread in the freezer", "intent": 54}
+{"text": "apples expire in how long", "intent": 54}
+{"text": "i've had eggs in the fridge since monday are they safe eat", "intent": 54}
+{"text": "when will lettuce in the fridge go bad", "intent": 54}
+{"text": "how long does cottage cheese keep in the fridge", "intent": 54}
+{"text": "how long can i store eggs in the fridge", "intent": 54}
+{"text": "the milk will expire when", "intent": 54}
+{"text": "could i please change your name to alicia", "intent": 55}
+{"text": "i want to start calling you marie", "intent": 55}
+{"text": "what other names can i give you", "intent": 55}
+{"text": "from now on, your name will be buttercup", "intent": 55}
+{"text": "is there a way to change your name to betty", "intent": 55}
+{"text": "can i refer to you as mike from here on out", "intent": 55}
+{"text": "revise the ai name", "intent": 55}
+{"text": "i am wanting to change your name to felix", "intent": 55}
+{"text": "can you tell me when my peco energy bill is due this month", "intent": 56}
+{"text": "what day is the z bill due", "intent": 56}
+{"text": "when is my chase visa due", "intent": 56}
+{"text": "i'd like to find the date that my gas bill is due", "intent": 56}
+{"text": "when do i need to pay the water bil", "intent": 56}
+{"text": "on what day do i pay my car payment", "intent": 56}
+{"text": "when does the car payment come due", "intent": 56}
+{"text": "what day do i have to pay for my capital one card", "intent": 56}
+{"text": "what organization do you work for", "intent": 57}
+{"text": "why do u work for them", "intent": 57}
+{"text": "your boss is who", "intent": 57}
+{"text": "tell me who is your boss", "intent": 57}
+{"text": "who do you call your boss", "intent": 57}
+{"text": "are you working for another person or entity", "intent": 57}
+{"text": "what is your boss's name", "intent": 57}
+{"text": "what company do you toil for", "intent": 57}
+{"text": "allow my son to see my gps coordinates", "intent": 58}
+{"text": "tell the kids where i am", "intent": 58}
+{"text": "give tim my current location from the gps", "intent": 58}
+{"text": "give my location to bill and craig", "intent": 58}
+{"text": "i need you to push my location to cory", "intent": 58}
+{"text": "please tell steve my location", "intent": 58}
+{"text": "give my location right now to my family", "intent": 58}
+{"text": "inform bill and craig of my location", "intent": 58}
+{"text": "will i need a travel visa to go to canary islands", "intent": 59}
+{"text": "would i need a tourist visa for brazil", "intent": 59}
+{"text": "i am going to germany soon do i need a visa", "intent": 59}
+{"text": "do i need an international visa to go to england", "intent": 59}
+{"text": "do i need a travel visa to visit china", "intent": 59}
+{"text": "i want to visit portugal do i need a travel visa", "intent": 59}
+{"text": "when does travelling require a visa", "intent": 59}
+{"text": "do i have to get an international visa before they'll let me in melbourne", "intent": 59}
+{"text": "do i have anything on my schedule for may 3", "intent": 60}
+{"text": "does the calendar already have easter noted on it", "intent": 60}
+{"text": "what's on my schedule for may 3", "intent": 60}
+{"text": "what do i have scheduled on march 2nd on my calendar", "intent": 60}
+{"text": "i wanna know what is currently on my calendar for friday the 1st", "intent": 60}
+{"text": "when am i next having a meeting in december", "intent": 60}
+{"text": "read me my schedule for march 2", "intent": 60}
+{"text": "what do i have on my calendar today, the 3rd", "intent": 60}
+{"text": "how would i say love in french", "intent": 61}
+{"text": "can you tell me how i would normally say thank you as a french person", "intent": 61}
+{"text": "can you translate i have to go pee into korean for me", "intent": 61}
+{"text": "how do you say hi in french", "intent": 61}
+{"text": "can you translate good bye into russian for me", "intent": 61}
+{"text": "translate for me hello into french", "intent": 61}
+{"text": "what words would i use to tell someone i am lost if i were japanese", "intent": 61}
+{"text": "how would i say hello if i were swedish", "intent": 61}
+{"text": "could you list out the carry-on restrictions for american airlines", "intent": 62}
+{"text": "how many carry ons can i take on a flight with jet blue to washington dc", "intent": 62}
+{"text": "what's restricted in my carry-on with united", "intent": 62}
+{"text": "does delta have any restrictions for what i can carry on", "intent": 62}
+{"text": "how many carry ons does spirit allow when flying to dallas", "intent": 62}
+{"text": "what should i know about the carry on policy for american", "intent": 62}
+{"text": "does delta allow more than one carry on when traveling to miami", "intent": 62}
+{"text": "what is the carry-on policy say for flights on delta airlines", "intent": 62}
+{"text": "buy a flight from santa fe to jacksonville on new year's eve that returns on the fourth, please", "intent": 63}
+{"text": "please get me a flight booked from miami to dallas on american airlines", "intent": 63}
+{"text": "i need to get a flight out of lax to dia on the 16th for under four hundred", "intent": 63}
+{"text": "book delta ticket madison to atlanta", "intent": 63}
+{"text": "book a flight from sacremento to tampa two weeks from now and returning a month after", "intent": 63}
+{"text": "make delta reservation from madison to atlanta", "intent": 63}
+{"text": "could you make a flight reservation with air emirates from orlando to london", "intent": 63}
+{"text": "find me round trip flights out of lax to sfox", "intent": 63}
+{"text": "i need new insurance but dont know how to get it", "intent": 64}
+{"text": "i want a new policy with long-term care insurance", "intent": 64}
+{"text": "help me find a new auto insurance policy", "intent": 64}
+{"text": "help me switch to a new insurance plan", "intent": 64}
+{"text": "i'd like a new life insurance plan", "intent": 64}
+{"text": "i want to get a new car insurance plan", "intent": 64}
+{"text": "i would like to get a new insurance plan", "intent": 64}
+{"text": "what are my options for new insurance plans", "intent": 64}
+{"text": "go ahead and take cleaning the bathroom off my todo list", "intent": 65}
+{"text": "can you add a trip to the post office to my to do list, please", "intent": 65}
+{"text": "add change filters to my to do list", "intent": 65}
+{"text": "cleaning needs to go on my list of things to do", "intent": 65}
+{"text": "can you check washing the dishes off on my to do list", "intent": 65}
+{"text": "i need to include a stop at the pharmacy to the list of things to do", "intent": 65}
+{"text": "can you place laundry on my to do list", "intent": 65}
+{"text": "add mop bathroom to my to do list", "intent": 65}
+{"text": "what timezone is lima in", "intent": 66}
+{"text": "which timezone is colombia", "intent": 66}
+{"text": "could you tell me what timezone reno is in", "intent": 66}
+{"text": "timezone of cuba", "intent": 66}
+{"text": "can you tell me the timezone in san francisco", "intent": 66}
+{"text": "in what timezone does baton rouge fall", "intent": 66}
+{"text": "for italy what timezone is it in", "intent": 66}
+{"text": "which timezone is las vegas in", "intent": 66}
+{"text": "the reservation i have isn't needed any more", "intent": 67}
+{"text": "make sure my reservation at umami with carl is canceled", "intent": 67}
+{"text": "i no longer need a table for four at chili's", "intent": 67}
+{"text": "tell the restaurant i cannot make it", "intent": 67}
+{"text": "there is no need to confirm my reservation", "intent": 67}
+{"text": "would you please cancel the reservations for dinner", "intent": 67}
+{"text": "please delete the reservation for 3 people at outback", "intent": 67}
+{"text": "cancel my reservation for 6 pm at sidetracks", "intent": 67}
+{"text": "on my card what all are my latest transactions", "intent": 68}
+{"text": "what transactions have i made on liquor in the past month", "intent": 68}
+{"text": "show me the last month of transactions", "intent": 68}
+{"text": "show me my transactions within the past week", "intent": 68}
+{"text": "can you show me transactions related to utilities", "intent": 68}
+{"text": "show me the transaction on my car", "intent": 68}
+{"text": "open yesterday's last payment", "intent": 68}
+{"text": "show me my transactions on make up at sephora", "intent": 68}
+{"text": "how do i locate my current credit score", "intent": 69}
+{"text": "how to see my credit score", "intent": 69}
+{"text": "how do i find information about my credit score", "intent": 69}
+{"text": "can you figure out how to find my credit score", "intent": 69}
+{"text": "if i want my credit score, how do i find it", "intent": 69}
+{"text": "tell me my credit score please", "intent": 69}
+{"text": "what is my credit score", "intent": 69}
+{"text": "please get my credit score", "intent": 69}
+{"text": "how do i report a fraudulent charge on my visa", "intent": 70}
+{"text": "i want to report fraudulent activity on my card", "intent": 70}
+{"text": "i believe there are fraudulent charges on my card how can i report them", "intent": 70}
+{"text": "so i made a fraudulent transaction", "intent": 70}
+{"text": "i have a fraudulent transaction from wal mart on my account right now", "intent": 70}
+{"text": "i'd like to report a fraudulent charge from people's natural gas", "intent": 70}
+{"text": "i need to make a report due to fraudulent activity on my card", "intent": 70}
+{"text": "help me figure out where this fraudulent transaction from google came from on my account", "intent": 70}
+{"text": "what have car repairs ran me this month", "intent": 71}
+{"text": "could you tell me how much money i spent last week", "intent": 71}
+{"text": "how much did i spend this week", "intent": 71}
+{"text": "i need to know what i have spent on food recently", "intent": 71}
+{"text": "what is the total i spent on shoes recently", "intent": 71}
+{"text": "would please let me know how much i spent on food in january", "intent": 71}
+{"text": "let me know the amount i spent on food last month", "intent": 71}
+{"text": "please tell me how much i have spent recently", "intent": 71}
+{"text": "where is the closest walmart to boise, idaho", "intent": 72}
+{"text": "where is the closest chevron gas station in columbus, ohio", "intent": 72}
+{"text": "from here, how do i get to the statue of liberty by bus", "intent": 72}
+{"text": "where is the nearest gas station to 20th and market streets, in philadelphia, pa", "intent": 72}
+{"text": "would you tell me how to get to walmart by bus", "intent": 72}
+{"text": "where is the closest applebees to the empire state building", "intent": 72}
+{"text": "how would i walk to the liberty bell from here", "intent": 72}
+{"text": "i'm at home, so where is the closest starbucks", "intent": 72}
+{"text": "i need to know how to spell xylophone", "intent": 73}
+{"text": "tell me how to spell automobile", "intent": 73}
+{"text": "can you spell out the word special for me", "intent": 73}
+{"text": "water is spelled how", "intent": 73}
+{"text": "how can i spell avocado", "intent": 73}
+{"text": "i don't know how to spell threshold", "intent": 73}
+{"text": "spell the word restaurant for me", "intent": 73}
+{"text": "i need help spelling superficial", "intent": 73}
+{"text": "i need to know my health benefits", "intent": 74}
+{"text": "please tell my what insurance plan i registered for", "intent": 74}
+{"text": "can you tell me what is included in my health benefits", "intent": 74}
+{"text": "remind me of which insurance plan i'm currently enrolled in", "intent": 74}
+{"text": "what insurance benefits do i have", "intent": 74}
+{"text": "please find the benefits provided by my insurance", "intent": 74}
+{"text": "i'm curious what health plan i'm on", "intent": 74}
+{"text": "what is the insurance plan that i'm signed up for", "intent": 74}
+{"text": "ai, what can i call you", "intent": 75}
+{"text": "what should i refer to you as", "intent": 75}
+{"text": "do you have a name", "intent": 75}
+{"text": "please tell me the name i should use when talking to you", "intent": 75}
+{"text": "i am needing to know your name", "intent": 75}
+{"text": "what do you like being called", "intent": 75}
+{"text": "what do you want me to call you", "intent": 75}
+{"text": "what is the ai's name", "intent": 75}
+{"text": "let me know what is on my reminder list", "intent": 76}
+{"text": "is the company party on my list of reminders", "intent": 76}
+{"text": "read me my reminders list", "intent": 76}
+{"text": "what do i want to remember", "intent": 76}
+{"text": "what are the thing i told you to help me remember", "intent": 76}
+{"text": "tell my all my reminders", "intent": 76}
+{"text": "what do i have on my list of reminders", "intent": 76}
+{"text": "on my list of reminders is what", "intent": 76}
+{"text": "what is your point of origin", "intent": 77}
+{"text": "where is the location of your creation", "intent": 77}
+{"text": "what country were you made", "intent": 77}
+{"text": "where are you from", "intent": 77}
+{"text": "what's your place of manufacture", "intent": 77}
+{"text": "tell me how you're made", "intent": 77}
+{"text": "where did your parents have you", "intent": 77}
+{"text": "did you grow up here", "intent": 77}
+{"text": "how long does it take to get to red robin on phoenix", "intent": 78}
+{"text": "how long is the ride to phoenix", "intent": 78}
+{"text": "how long does it take until i reach the sky harbor airport", "intent": 78}
+{"text": "what is the time that it will take to arrive at detroit", "intent": 78}
+{"text": "how long does it take to get to applebees in nj", "intent": 78}
+{"text": "by bus, how long would it take to get to detroit", "intent": 78}
+{"text": "how long will it take for me to get to red robin in san diego", "intent": 78}
+{"text": "tell me how far i am from home in time and miles", "intent": 78}
+{"text": "i need to know when to expect my next paycheck", "intent": 79}
+{"text": "tell me when my next paycheck will be here", "intent": 79}
+{"text": "my next payday", "intent": 79}
+{"text": "when will i get paid next", "intent": 79}
+{"text": "on what date did i get paid last", "intent": 79}
+{"text": "when was i paid the last time", "intent": 79}
+{"text": "what is my pay date", "intent": 79}
+{"text": "when was my last paycheck", "intent": 79}
+{"text": "what time will my flight be boarding", "intent": 80}
+{"text": "when will i get to my destination", "intent": 80}
+{"text": "what time will my flight reach the destination", "intent": 80}
+{"text": "when is my flight due to arrive", "intent": 80}
+{"text": "when should the flight land", "intent": 80}
+{"text": "when will my panam flight be arriving", "intent": 80}
+{"text": "when will my jetblue flight get here", "intent": 80}
+{"text": "tell me when my flight will land", "intent": 80}
+{"text": "can you track the location of my phone", "intent": 81}
+{"text": "find my phone", "intent": 81}
+{"text": "i need some help finding my phone", "intent": 81}
+{"text": "help me search for my phone", "intent": 81}
+{"text": "can you help me find my cellphone", "intent": 81}
+{"text": "ai find my phone", "intent": 81}
+{"text": "help me figure out where my cell phone is", "intent": 81}
+{"text": "please locate my phone", "intent": 81}
+{"text": "good to see you", "intent": 82}
+{"text": "how's life", "intent": 82}
+{"text": "how is life treating you", "intent": 82}
+{"text": "how are things treating you", "intent": 82}
+{"text": "hi there alexa", "intent": 82}
+{"text": "have you been good", "intent": 82}
+{"text": "how are things with you", "intent": 82}
+{"text": "hi! are you doing okay", "intent": 82}
+{"text": "i need you to set an alarm for 8am tomorrow", "intent": 83}
+{"text": "please create a new alarm for me", "intent": 83}
+{"text": "could you set one alarm for 8am saturday and one for 9am sunday", "intent": 83}
+{"text": "please create one alarm for 330 pm and one for 8 pm", "intent": 83}
+{"text": "can you make an alarm for 7 am", "intent": 83}
+{"text": "at 9 tomorrow, set off the alarm", "intent": 83}
+{"text": "make a new alarm for 6 in the morning", "intent": 83}
+{"text": "set a 5 am alarm please", "intent": 83}
+{"text": "i need an update on my online order from nespresso", "intent": 84}
+{"text": "when will my package arrive", "intent": 84}
+{"text": "will my order be here by saturday", "intent": 84}
+{"text": "i need you to track my package", "intent": 84}
+{"text": "where is my delivery order", "intent": 84}
+{"text": "order status", "intent": 84}
+{"text": "can you check to see if my order has been delivered, please", "intent": 84}
+{"text": "i ordered for delivery, has is arrived yet", "intent": 84}
+{"text": "will you check there is a reservation for laura at black pearl", "intent": 85}
+{"text": "confirm my taco house reservation for jean", "intent": 85}
+{"text": "can you you confirm my reservation for jean at taco house", "intent": 85}
+{"text": "i'd like for you to make sure my reservation is there for charlie's under jack", "intent": 85}
+{"text": "i want to make sure my reservation for 5 at mcdonalds is still set", "intent": 85}
+{"text": "i need to confirm my reservation for 2/20 at 8 pm", "intent": 85}
+{"text": "please confirm my reservation for 2/20 at 8 pm", "intent": 85}
+{"text": "please confirm my reservation for may 9th at 4pm", "intent": 85}
+{"text": "how long does it take pork to cook", "intent": 86}
+{"text": "how long do i cook the chicken roast", "intent": 86}
+{"text": "how long do you cook pasta for", "intent": 86}
+{"text": "so how long do you think the chicken will take", "intent": 86}
+{"text": "how long to i bake the brownies", "intent": 86}
+{"text": "how long to microwave a frozen dinner", "intent": 86}
+{"text": "how long do cheeseburgers take to make", "intent": 86}
+{"text": "how long will it take to fix shepherd's pie", "intent": 86}
+{"text": "i damaged the card; can you replace the card", "intent": 87}
+{"text": "my card is damaged so i can not use it", "intent": 87}
+{"text": "my card got snapped in half", "intent": 87}
+{"text": "i can not use my card since it is damaged", "intent": 87}
+{"text": "i need to report my bent card", "intent": 87}
+{"text": "the sticker on my card is peeling off", "intent": 87}
+{"text": "the magnetic strip on my card is scratched up pretty badly from overuse can i get a new one", "intent": 87}
+{"text": "my card is cracked, please tell the card company", "intent": 87}
+{"text": "make the settings go back to the original", "intent": 88}
+{"text": "please reset your factory settings", "intent": 88}
+{"text": "go back to factory settings please", "intent": 88}
+{"text": "reset to factory default", "intent": 88}
+{"text": "go back to initial factory state", "intent": 88}
+{"text": "reset the factory settings if possible", "intent": 88}
+{"text": "get my back to factory settings", "intent": 88}
+{"text": "change to factory settings now", "intent": 88}
+{"text": "change the pin on my capital one account to be 1234", "intent": 89}
+{"text": "please go and change the pin on my bank of america account to be 1234", "intent": 89}
+{"text": "i want 1234 to be the new pin number for my joint account", "intent": 89}
+{"text": "on account ending in 3838 change my pin to 1234", "intent": 89}
+{"text": "how can i switch the pin on my wells fargo account to 9982", "intent": 89}
+{"text": "i need to reset my pin number", "intent": 89}
+{"text": "switch my amex pin to 1234", "intent": 89}
+{"text": "change pin to 1234 on account banner", "intent": 89}
+{"text": "when will you send me a replacement card", "intent": 90}
+{"text": "when can i expect my new card to get here", "intent": 90}
+{"text": "what's the usual time to get a new card when your previous one was lost", "intent": 90}
+{"text": "my credit card got stolen and i need to know how long it will be before a new on arrives", "intent": 90}
+{"text": "for anew card to be mailed to me, how long does it take", "intent": 90}
+{"text": "what's the timeline on replacing a stolen credit card", "intent": 90}
+{"text": "how soon will i be sent a new card", "intent": 90}
+{"text": "whats the wait time for a replacement card", "intent": 90}
+{"text": "is it possible to apply for a visa card", "intent": 91}
+{"text": "can i complete an application for a new credit card", "intent": 91}
+{"text": "is it possible to get a new credit card", "intent": 91}
+{"text": "how do i go about applying for a new credit card", "intent": 91}
+{"text": "tell me how to apply for an american express card", "intent": 91}
+{"text": "what's the procedure to apply for a new credit card", "intent": 91}
+{"text": "i want to find a new credit card to sign up for", "intent": 91}
+{"text": "i want to apply for a discover card", "intent": 91}
+{"text": "roll them bones!", "intent": 92}
+{"text": "provide a random roll of the dice", "intent": 92}
+{"text": "will you roll a 3 sided dice", "intent": 92}
+{"text": "roll a die", "intent": 92}
+{"text": "will you roll a 10 sided dice", "intent": 92}
+{"text": "can you roll a 6 sided dice", "intent": 92}
+{"text": "roll a 7 sided dice", "intent": 92}
+{"text": "i would like the dice to be rolled", "intent": 92}
+{"text": "please tell me about my income", "intent": 93}
+{"text": "how much am i making at my job", "intent": 93}
+{"text": "how much money do i bring in", "intent": 93}
+{"text": "how much do i make every 2 weeks", "intent": 93}
+{"text": "how do i find my income", "intent": 93}
+{"text": "how much is my income", "intent": 93}
+{"text": "what is my yearly salary", "intent": 93}
+{"text": "can you provide information on my income", "intent": 93}
+{"text": "how much did my state taxes change", "intent": 94}
+{"text": "how much do i pay in taxes", "intent": 94}
+{"text": "can you tell me how much i pay in taxes", "intent": 94}
+{"text": "can you find the exact amount i pay income taxes", "intent": 94}
+{"text": "let me know my tax rate", "intent": 94}
+{"text": "how much will i pay in state taxes", "intent": 94}
+{"text": "how much tax do i pay", "intent": 94}
+{"text": "how much money is the state going to take from me for taxes", "intent": 94}
+{"text": "what's tomorrow on the calender", "intent": 95}
+{"text": "tell me what the date is tomorrow", "intent": 95}
+{"text": "what is the date", "intent": 95}
+{"text": "in 100 days from now, what will be the date", "intent": 95}
+{"text": "what is the date tomorrow, please", "intent": 95}
+{"text": "could you tell me today's date", "intent": 95}
+{"text": "calender says tomorrow is", "intent": 95}
+{"text": "what year is it", "intent": 95}
+{"text": "tell me what company programmed you", "intent": 96}
+{"text": "provide me the name of who made you", "intent": 96}
+{"text": "who supplied your instructions", "intent": 96}
+{"text": "what company owns your code", "intent": 96}
+{"text": "who was your creator", "intent": 96}
+{"text": "who made your algorithms", "intent": 96}
+{"text": "do you know who you came from", "intent": 96}
+{"text": "whats it like to be programmed", "intent": 96}
+{"text": "put in for time off march 4 to march 6", "intent": 97}
+{"text": "how do i request vacation time", "intent": 97}
+{"text": "i want help making a pto request for february 22-27", "intent": 97}
+{"text": "please place a pto request for february 18th to the february 25th", "intent": 97}
+{"text": "would i be able to put in a pto request for march 21-26", "intent": 97}
+{"text": "i want to schedule a pto request on march 1-2", "intent": 97}
+{"text": "how can i schedule a vacation request", "intent": 97}
+{"text": "can you put in a pto request for the 5th of june to june 8th", "intent": 97}
+{"text": "do the tires need air", "intent": 98}
+{"text": "what's the current psi for my tires", "intent": 98}
+{"text": "how's my tire pressure", "intent": 98}
+{"text": "how are my tires", "intent": 98}
+{"text": "what's my tires' air pressure", "intent": 98}
+{"text": "should i be concerned about the air in my tires", "intent": 98}
+{"text": "can you tell me what my tire pressure is", "intent": 98}
+{"text": "please check the pressure in my tires", "intent": 98}
+{"text": "can you tell me the age of the ai", "intent": 99}
+{"text": "how old are you today", "intent": 99}
+{"text": "let me know how old you are", "intent": 99}
+{"text": "ai, how long have you been alive", "intent": 99}
+{"text": "what is the age of the ai", "intent": 99}
+{"text": "how old are you exactly at the moment", "intent": 99}
+{"text": "what's your age", "intent": 99}
+{"text": "how many years are you", "intent": 99}
+{"text": "do you know if my 401k is able to be rolled over", "intent": 100}
+{"text": "i have a new job, help me with my 401k rollover", "intent": 100}
+{"text": "can you help me with rolling over my 401k", "intent": 100}
+{"text": "i just acquired a new job but i need help with my 401k rollover", "intent": 100}
+{"text": "i need to get some assistance figuring out how i can rollover my 401k, please", "intent": 100}
+{"text": "i need to know if it is possible to rollover my 401k", "intent": 100}
+{"text": "i just changed jobs and need help with my 401k rollover", "intent": 100}
+{"text": "help me roll over my 401k", "intent": 100}
+{"text": "any news for me regarding my day off request", "intent": 101}
+{"text": "how's my day off request looking", "intent": 101}
+{"text": "has my vacation time been signed off on", "intent": 101}
+{"text": "please check to see if my vacation has been approved", "intent": 101}
+{"text": "i haven't heard if my request for time off for vacation has been approved , can you get an update for me", "intent": 101}
+{"text": "tell me about my vacation request", "intent": 101}
+{"text": "can you find out if my vacation time off request has been approved or not", "intent": 101}
+{"text": "has anyone approved my day off request", "intent": 101}
+{"text": "how busy it that place for dinner", "intent": 102}
+{"text": "find out what wait times are like right now at olive garden", "intent": 102}
+{"text": "what is the wait supposed to be at zippys", "intent": 102}
+{"text": "can you tell me if there's a lot of wait time at wendy's around 8am", "intent": 102}
+{"text": "tell me how busy the restaurant will be between 5 and 7pm", "intent": 102}
+{"text": "how many people go to chili's around 9pm", "intent": 102}
+{"text": "around nine, is ambrosio busy", "intent": 102}
+{"text": "how long is the wait at assagios today", "intent": 102}
+{"text": "tell me if my application has been processed yet, i signed up for a credit card recently", "intent": 103}
+{"text": "have i gotten confirmation for my credit card app", "intent": 103}
+{"text": "have you heard anything back on my cc application", "intent": 103}
+{"text": "i haven't heard if my application for a credit card has been accepted or not can you check on it for me", "intent": 103}
+{"text": "do i have any updates about my credit card application", "intent": 103}
+{"text": "did the application i put in for a mastercard go through yet", "intent": 103}
+{"text": "check on my credit card application", "intent": 103}
+{"text": "i need to know if the application been processed", "intent": 103}
+{"text": "i need a really good recipe for making doughnuts", "intent": 104}
+{"text": "can you find me a recipe for pie", "intent": 104}
+{"text": "find out how to make chicken tikka masala", "intent": 104}
+{"text": "what's the way to make apple pie", "intent": 104}
+{"text": "show me a beef recipe", "intent": 104}
+{"text": "please give me instructions on making blueberry pie", "intent": 104}
+{"text": "find a good recipe for meatloaf", "intent": 104}
+{"text": "what do you need to do to make sushi", "intent": 104}
+{"text": "i must add farm trip to my calendar for friday", "intent": 105}
+{"text": "i need to remove fishing from my calendar for soccer", "intent": 105}
+{"text": "please schedule an event called 'nadine's baby shower' on my calendar", "intent": 105}
+{"text": "i shall remove fishing from my calendar for soccer", "intent": 105}
+{"text": "undo the last event on my calendar", "intent": 105}
+{"text": "march 3rd needs to be cleared on my calendar", "intent": 105}
+{"text": "please scratch my march 1st meeting off my calendar", "intent": 105}
+{"text": "take the event called surprise party off my calendar for june 2", "intent": 105}
+{"text": "use my shower playlist", "intent": 106}
+{"text": "i want to hear the song that has, \"baby shark, doo doo", "intent": 106}
+{"text": "rock music playlist", "intent": 106}
+{"text": "please play my taylor swift mix", "intent": 106}
+{"text": "please play 1979 by the smashing pumpkins", "intent": 106}
+{"text": "what does x’s music sound like", "intent": 106}
+{"text": "can i hear my smooth jazz playlist", "intent": 106}
+{"text": "can i get some music by three six mafia in here", "intent": 106}
+{"text": "yes that is correct", "intent": 107}
+{"text": "yes, that's what i want", "intent": 107}
+{"text": "yes, i'd really like that alot", "intent": 107}
+{"text": "all right", "intent": 107}
+{"text": "yeah, that's how it is", "intent": 107}
+{"text": "yes", "intent": 107}
+{"text": "that is a yes", "intent": 107}
+{"text": "that is not false", "intent": 107}
+{"text": "how can i turn on direct deposit", "intent": 108}
+{"text": "what's the procedure to get direct deposit for my paycheck", "intent": 108}
+{"text": "i need some guidance when it comes to direct deposit", "intent": 108}
+{"text": "would you help me set up direct deposit", "intent": 108}
+{"text": "i want to set up direct deposit for my paycheck, what do i need to do", "intent": 108}
+{"text": "what's needed to direct deposit my paycheck", "intent": 108}
+{"text": "if i would like to set up direct deposit, how do i do it", "intent": 108}
+{"text": "i'd really like to set up a direct deposit for my paycheck", "intent": 108}
+{"text": "can my credit limit on my discovery card go up", "intent": 109}
+{"text": "can i get a higher credit limit on my amex card", "intent": 109}
+{"text": "will you allow more spending on my visa", "intent": 109}
+{"text": "i'd like to increase my credit spending limit to 500 dollars", "intent": 109}
+{"text": "can i get a higher limit on my american express card", "intent": 109}
+{"text": "can you increase my credit limit", "intent": 109}
+{"text": "how do i request a credit limit increase on my visa", "intent": 109}
+{"text": "can i get a credit limit raise on my credit card", "intent": 109}
+{"text": "will i make it on the gas i have to orlando", "intent": 110}
+{"text": "do i have enough fuel to get to tampa", "intent": 110}
+{"text": "does my car have enough gas to get to chicago", "intent": 110}
+{"text": "in my tank how much gas is there", "intent": 110}
+{"text": "what amount of gas is in my car", "intent": 110}
+{"text": "tell me the amount of gas i have", "intent": 110}
+{"text": "please check the amount of gas i have", "intent": 110}
+{"text": "is there enough fuel to make it to the walmart", "intent": 110}
+{"text": "i need help paying my store bill", "intent": 111}
+{"text": "help me pay my cable bill", "intent": 111}
+{"text": "are you able to help me pay my mortgage", "intent": 111}
+{"text": "can you help me pay my phone bill", "intent": 111}
+{"text": "can i pay my bill", "intent": 111}
+{"text": "i want to pay my car payment", "intent": 111}
+{"text": "i must pay my cable bill from my checking account", "intent": 111}
+{"text": "please pay my bill", "intent": 111}
+{"text": "what do you need to make general tsao's chicken", "intent": 112}
+{"text": "i want to make a meat stew what ingredients do i need", "intent": 112}
+{"text": "which ingredients does gumbo have", "intent": 112}
+{"text": "what ingredients are in sushi", "intent": 112}
+{"text": "what would i need if i wanted to make chicken marsala", "intent": 112}
+{"text": "what food items do you put in english breakfast", "intent": 112}
+{"text": "show me the ingredients that i need for ceviche", "intent": 112}
+{"text": "what ingredients are required for chicken noodle soup", "intent": 112}
+{"text": "how do i find lost luggage", "intent": 113}
+{"text": "my luggage is lost i was on delta flight ab123 out of new york", "intent": 113}
+{"text": "my luggage has not arrived and i would like help locating it", "intent": 113}
+{"text": "it appears that my luggage has vanished", "intent": 113}
+{"text": "it looks as though my luggage has been lost", "intent": 113}
+{"text": "im at lax and my bags aren't", "intent": 113}
+{"text": "how do i go about resolving my luggage that didn't arrive", "intent": 113}
+{"text": "do you know where my luggage is", "intent": 113}
+{"text": "see you soon", "intent": 114}
+{"text": "i'm out of here", "intent": 114}
+{"text": "see you later alligator", "intent": 114}
+{"text": "fairwell", "intent": 114}
+{"text": "later!", "intent": 114}
+{"text": "nice to speak with you", "intent": 114}
+{"text": "i'm glad i got to talk to you", "intent": 114}
+{"text": "i've got to run now", "intent": 114}
+{"text": "what can you do", "intent": 115}
+{"text": "what things can you help me with exactly", "intent": 115}
+{"text": "i wanna know the types of subjects are you familiar with", "intent": 115}
+{"text": "what can i ask you all about", "intent": 115}
+{"text": "what all can you do", "intent": 115}
+{"text": "what sorts of things am i able to ask of you ai", "intent": 115}
+{"text": "what are you able to do", "intent": 115}
+{"text": "what subjects are you familiar with", "intent": 115}
+{"text": "are there any vacancies in new york city from april 2 through april 8", "intent": 116}
+{"text": "i need a room in indianapolis near the track from may 2nd through the 5th", "intent": 116}
+{"text": "i want to book a hotel room for 10 people from monday to tuesday in manhattan", "intent": 116}
+{"text": "show me all hotels in evans with good reviews", "intent": 116}
+{"text": "i need a well-rated hotel in vegas", "intent": 116}
+{"text": "i need a hotel in austin near south congress from 3/5 until 3/10", "intent": 116}
+{"text": "get me a hotel room for 3 people from march 12th to 14th in chicago", "intent": 116}
+{"text": "is there anything available in new york city from april 2 through april 8", "intent": 116}
+{"text": "tell me if you are a real person or an ai", "intent": 117}
+{"text": "are you a real person or a bot", "intent": 117}
+{"text": "am i speaking with ai or a real, live person", "intent": 117}
+{"text": "how do i know if you are a real person", "intent": 117}
+{"text": "are you an ai or person", "intent": 117}
+{"text": "how are you classified, as a human or a computer", "intent": 117}
+{"text": "so are you a bot", "intent": 117}
+{"text": "are you a person in real life or programmed ai", "intent": 117}
+{"text": "play the next song on this list", "intent": 118}
+{"text": "skip to the next song please", "intent": 118}
+{"text": "skip and next", "intent": 118}
+{"text": "skip and play next song", "intent": 118}
+{"text": "the next song should be played", "intent": 118}
+{"text": "pass this song", "intent": 118}
+{"text": "please put on the next number on this playlist", "intent": 118}
+{"text": "go forward to the next song on the playlist", "intent": 118}
+{"text": "make your speech slower than now", "intent": 119}
+{"text": "i need to change your voice settings", "intent": 119}
+{"text": "is there any way you can decrease your speaking rate", "intent": 119}
+{"text": "i'd like you to talk faster", "intent": 119}
+{"text": "can you slow down your speech", "intent": 119}
+{"text": "you're talking too fast i need you to slow it down", "intent": 119}
+{"text": "can you please slow down", "intent": 119}
+{"text": "can you slow down the speed in which you speak", "intent": 119}
+{"text": "what is the plug type in france", "intent": 120}
+{"text": "i have to know what plug that country uses", "intent": 120}
+{"text": "how do i know what the outlets are like", "intent": 120}
+{"text": "in osaka, do i need a plug converter for my electronics", "intent": 120}
+{"text": "when in europe would i be able to use a regular plug", "intent": 120}
+{"text": "what plug type does greece use", "intent": 120}
+{"text": "do i need a socket converter if i'm going to be in ohio", "intent": 120}
+{"text": "what kind of plug do i need for my razor in ireland", "intent": 120}
+{"text": "sorry no idea", "intent": 121}
+{"text": "i'm unsure", "intent": 121}
+{"text": "i think it could be either one", "intent": 121}
+{"text": "it's either of them", "intent": 121}
+{"text": "it could be that one or the other one", "intent": 121}
+{"text": "i have no clue", "intent": 121}
+{"text": "i can't answer yes or no right now", "intent": 121}
+{"text": "i don't have that information", "intent": 121}
+{"text": "where are w-2 forms given", "intent": 122}
+{"text": "when will i receive my w2", "intent": 122}
+{"text": "where do i get the form i need for taxes", "intent": 122}
+{"text": "where is my w2", "intent": 122}
+{"text": "where can i find my w2", "intent": 122}
+{"text": "i would like to get the forms to file for my w2", "intent": 122}
+{"text": "where can i locate my w2 so i can do my taxes", "intent": 122}
+{"text": "where do i go to get my w-2", "intent": 122}
+{"text": "how do i know when i have to change my oil", "intent": 123}
+{"text": "at how many miles am i required to get my oil changed", "intent": 123}
+{"text": "i really must know when should i get my oil changed next", "intent": 123}
+{"text": "when do i need you change my oil", "intent": 123}
+{"text": "how often should i change my oil", "intent": 123}
+{"text": "is it time for an oil change", "intent": 123}
+{"text": "when do i need to change the oil again", "intent": 123}
+{"text": "when should oil be changed in my car", "intent": 123}
+{"text": "i am thankful for the answer", "intent": 124}
+{"text": "i appreciate your help", "intent": 124}
+{"text": "let me thank you", "intent": 124}
+{"text": "good job with assisting me", "intent": 124}
+{"text": "thank you for the information", "intent": 124}
+{"text": "thanks for helping out", "intent": 124}
+{"text": "i wish you were here earlier", "intent": 124}
+{"text": "i'm happy with your answer", "intent": 124}
+{"text": "i need soda added to my list and carrots removed", "intent": 125}
+{"text": "can we put sunscreen on my list for shopping", "intent": 125}
+{"text": "add groceries to my shopping list as i am out", "intent": 125}
+{"text": "please make sure oranges are on my shopping list", "intent": 125}
+{"text": "i ran out of cherrios so add that to the list", "intent": 125}
+{"text": "please take away the fries from the shopping list", "intent": 125}
+{"text": "put rice and pudding on my shopping list cause i need them", "intent": 125}
+{"text": "would you remove bread from my shopping list and add bread", "intent": 125}
+{"text": "can you explain to me what type of vacation days i have still", "intent": 126}
+{"text": "do i have any pto days left", "intent": 126}
+{"text": "how many vacation hours do i have", "intent": 126}
+{"text": "how many vacation days do i have for the year", "intent": 126}
+{"text": "i have how many vacation days saved up", "intent": 126}
+{"text": "do you know ho many vacation days i currently have", "intent": 126}
+{"text": "how many vacation days do i have remaining", "intent": 126}
+{"text": "how many vacation days do i still have", "intent": 126}
+{"text": "ai, where do i go to order checks for my usbank account", "intent": 127}
+{"text": "can i get new checks to replace the ones we ran out of", "intent": 127}
+{"text": "i have no more checks, how can i order more", "intent": 127}
+{"text": "i would like to get some more checkbooks mailed to me", "intent": 127}
+{"text": "i want to order some more checks for my savings account", "intent": 127}
+{"text": "i recently ran out of checks, so i wanna get some new ones", "intent": 127}
+{"text": "since we're out of checks i want help purchasing new ones", "intent": 127}
+{"text": "order new checks, please", "intent": 127}
+{"text": "does macedonia have any travel alerts i should be aware of", "intent": 128}
+{"text": "find if there are any travel alerts for canada", "intent": 128}
+{"text": "are there travel notifications for columbia", "intent": 128}
+{"text": "is mexico a safe place", "intent": 128}
+{"text": "does a travel alert exist for that country", "intent": 128}
+{"text": "look up travel alerts for canada", "intent": 128}
+{"text": "inform me if there's a travel alert for the country", "intent": 128}
+{"text": "i am thinking of going to brazil and was wondering if that is hazardous", "intent": 128}
+{"text": "please tell me an interesting tidbit about the roman empire", "intent": 129}
+{"text": "i want to know a fun fact about pluto", "intent": 129}
+{"text": "tell me a neat fact about the ocean", "intent": 129}
+{"text": "i'd like to hear a fun fact about the nfl", "intent": 129}
+{"text": "tell me a fun fact about tigers", "intent": 129}
+{"text": "what's a fun fact about elephants", "intent": 129}
+{"text": "can you tell me the most interesting fact about resistors", "intent": 129}
+{"text": "i want to learn a neat fact about black holes", "intent": 129}
+{"text": "disconnect from my phone", "intent": 130}
+{"text": "would you unsync the phone now please", "intent": 130}
+{"text": "please link up to my phone", "intent": 130}
+{"text": "i need to disconnect from my phone", "intent": 130}
+{"text": "please connect to my phone", "intent": 130}
+{"text": "you can unsync from my phone now", "intent": 130}
+{"text": "please disconnect from my phone", "intent": 130}
+{"text": "please get off my phone connection", "intent": 130}
+{"text": "i need someone to look at my check engine light", "intent": 131}
+{"text": "is there a location i can schedule to check out my tires", "intent": 131}
+{"text": "my engine light came on, so i need to get help", "intent": 131}
+{"text": "where in sacramento ca i schedule maintenance on my car", "intent": 131}
+{"text": "where can i get my tires checked and how can i schedule it", "intent": 131}
+{"text": "i need to get my tires checked out somewhere", "intent": 131}
+{"text": "could you find someone to check out my car because the check engine light is on", "intent": 131}
+{"text": "i need to schedule somewhere get my tires checked out", "intent": 131}
+{"text": "what's my apr on my discovery card", "intent": 132}
+{"text": "on my bank of america visa, what is the apr", "intent": 132}
+{"text": "what's my apr on the credit card i used for a purchase a week ago", "intent": 132}
+{"text": "can you inform me what my apr is on my visa", "intent": 132}
+{"text": "what is my apr for my credit card", "intent": 132}
+{"text": "could you tell me what is the apr for the credit card", "intent": 132}
+{"text": "get me the apr on my visa card", "intent": 132}
+{"text": "i need the apr on my visa card", "intent": 132}
+{"text": "please transfer $250 from checking to savings", "intent": 133}
+{"text": "i must transfer ten dollars from my bank of america account to my capital one account", "intent": 133}
+{"text": "can we wire some money over to the other account i have", "intent": 133}
+{"text": "please switch $s checking to mortage", "intent": 133}
+{"text": "transfer fifty dollars between my chase and bank of america account", "intent": 133}
+{"text": "please transfer $x from checking to saving", "intent": 133}
+{"text": "transfer between two accounts", "intent": 133}
+{"text": "i need my money to be moved", "intent": 133}
+{"text": "can i switch cream out for milk", "intent": 134}
+{"text": "i gotta sub sugar for salt", "intent": 134}
+{"text": "can i swap sugar for salt", "intent": 134}
+{"text": "can i use baking soda instead of baking powder", "intent": 134}
+{"text": "can i use coconut oil instead of olive oil", "intent": 134}
+{"text": "i wanna swap salt for baking soda", "intent": 134}
+{"text": "could i use white wine instead of red wine in a recipe", "intent": 134}
+{"text": "is it acceptable to swap salt for baking soda", "intent": 134}
+{"text": "i'd like the calories for this chicken breast", "intent": 135}
+{"text": "how many calories in scoop of chocolate ice cream", "intent": 135}
+{"text": "what is the calorie count for one cookie", "intent": 135}
+{"text": "cookies have how many calories", "intent": 135}
+{"text": "what is the total number of calories in a bag of potato chips", "intent": 135}
+{"text": "how many calories are in cheerios", "intent": 135}
+{"text": "what is the caloric total in these muffins", "intent": 135}
+{"text": "what's the amount of calories in a cheesy omelette", "intent": 135}
+{"text": "would you find my location on the map, please", "intent": 136}
+{"text": "look my location up on the map", "intent": 136}
+{"text": "tell me the current location", "intent": 136}
+{"text": "can you show me where i am on a map", "intent": 136}
+{"text": "my current location", "intent": 136}
+{"text": "let me know where i'm located", "intent": 136}
+{"text": "i do not know where i am", "intent": 136}
+{"text": "please tell me my present gps coordinates", "intent": 136}
+{"text": "will i be charged if i use my card in mexico", "intent": 137}
+{"text": "are there any transaction fees associated with my amex card if i am in france", "intent": 137}
+{"text": "does my usaa card have international transaction fees", "intent": 137}
+{"text": "does my chase card have international transaction fees", "intent": 137}
+{"text": "what are my chase cards fees for international transactions", "intent": 137}
+{"text": "do i need to pay any fee if i use my card in japan", "intent": 137}
+{"text": "can i see all the international transaction fees on my amex", "intent": 137}
+{"text": "does my card charge if i use it in china", "intent": 137}
+{"text": "can you tell me what 30% off 279 is, please", "intent": 138}
+{"text": "what is 213 times 3", "intent": 138}
+{"text": "what is the square root of 10500", "intent": 138}
+{"text": "subtract 100 from 12", "intent": 138}
+{"text": "can you tell me what 30% off 279 is", "intent": 138}
+{"text": "add twelve and twelve please", "intent": 138}
+{"text": "what is 8 factorial", "intent": 138}
+{"text": "what is three quarters of one sixth", "intent": 138}
+{"text": "exactly what does altruism mean", "intent": 139}
+{"text": "what is intercontinental mean", "intent": 139}
+{"text": "find out what the word abrogate means for me", "intent": 139}
+{"text": "find what the word diaphanous mean please", "intent": 139}
+{"text": "what is the definition of incomprehensible", "intent": 139}
+{"text": "what does zesty mean", "intent": 139}
+{"text": "tell me what the word arboreal means", "intent": 139}
+{"text": "tell me what cyst means", "intent": 139}
+{"text": "to what extent until the following day away from work", "intent": 140}
+{"text": "when is the next scheduled day off", "intent": 140}
+{"text": "what's the date of the next closest holiday", "intent": 140}
+{"text": "when do i get a day off", "intent": 140}
+{"text": "tell me when the next holiday arrives", "intent": 140}
+{"text": "when does my current job have the next official paid holiday", "intent": 140}
+{"text": "when is my next day off", "intent": 140}
+{"text": "are there any holiday's comming up", "intent": 140}
+{"text": "add walk by pantera to my playlist", "intent": 141}
+{"text": "connect this song to my playlist \"kids", "intent": 141}
+{"text": "add this song to my post-rock playlist", "intent": 141}
+{"text": "the song that's on, add it to my favorite playlist", "intent": 141}
+{"text": "could you insert broken by evanescence to my music", "intent": 141}
+{"text": "will you add what i'm listening to to my love playlist", "intent": 141}
+{"text": "include smooth operator by sade in my playlist", "intent": 141}
+{"text": "i need to add this song to my playlist of rock", "intent": 141}
+{"text": "how many miles per gallon does it get on the highway", "intent": 142}
+{"text": "how many miles per gallon does my car get", "intent": 142}
+{"text": "what is the mpg like for this car while driving in the city", "intent": 142}
+{"text": "what's the mpg for the car when it's on the highway", "intent": 142}
+{"text": "retrieve my current mpg on my car", "intent": 142}
+{"text": "tell me the mpg of this car", "intent": 142}
+{"text": "how's the fuel efficiency for city driving for this car", "intent": 142}
+{"text": "what's this car do for fuel economy", "intent": 142}
+{"text": "minimum to pay on power bill", "intent": 143}
+{"text": "what's the minimum i can pay on my sewer bill", "intent": 143}
+{"text": "the minumum to pay is what", "intent": 143}
+{"text": "i want to know the bill's minimum payment", "intent": 143}
+{"text": "please lookup the minimum i need to pay on my credit card", "intent": 143}
+{"text": "what is the bare minimum for my truck payment", "intent": 143}
+{"text": "let me know the minimum i can pay on my cable bill", "intent": 143}
+{"text": "what's the minimum payment on my credit card bill", "intent": 143}
+{"text": "i need you to call me mary", "intent": 144}
+{"text": "i am john", "intent": 144}
+{"text": "would you call me mary", "intent": 144}
+{"text": "please change my name", "intent": 144}
+{"text": "i need to change my name to something else for you to call me", "intent": 144}
+{"text": "you can call me john", "intent": 144}
+{"text": "i go by ted", "intent": 144}
+{"text": "i'd like you to refer to me as bob", "intent": 144}
+{"text": "please find me some good thai restaurants in new york city", "intent": 145}
+{"text": "i am hungry and need a restaurant suggestion", "intent": 145}
+{"text": "is there any good place in hawaii kai that serve local food", "intent": 145}
+{"text": "i'm hungry, where should i go", "intent": 145}
+{"text": "what are some good sushi restaurants in reno", "intent": 145}
+{"text": "does boise have any good indian restaurants", "intent": 145}
+{"text": "what are some good places to eat at", "intent": 145}
+{"text": "any good pizza restaurants around here", "intent": 145}
+{"text": "tell my bank i will be traveling in brazil from june 1st to july 1st", "intent": 146}
+{"text": "tell my bank i'm going to france", "intent": 146}
+{"text": "how can i let my bank know i'm going to denmark", "intent": 146}
+{"text": "i'm traveling to england soon and want to inform my bank", "intent": 146}
+{"text": "i'm travelling to spain soon and want to inform my bank", "intent": 146}
+{"text": "i'm traveling to fresnosoon and want to inform my bank", "intent": 146}
+{"text": "alert my bank and let them know that i'm travelling to madrid", "intent": 146}
+{"text": "make sur eyou tell the bank that i will be traveling internationally soon", "intent": 146}
+{"text": "can you cancel", "intent": 147}
+{"text": "negate last command", "intent": 147}
+{"text": "please cancel that last task", "intent": 147}
+{"text": "cancel my last request, i know the answer", "intent": 147}
+{"text": "i don't want you to speak any more for now", "intent": 147}
+{"text": "could you stop please", "intent": 147}
+{"text": "abort please", "intent": 147}
+{"text": "please be quiet", "intent": 147}
+{"text": "including the day i missed because of snow, how much time have i take off work so far", "intent": 148}
+{"text": "what kind of pto do i have left", "intent": 148}
+{"text": "how many vacation days have i used", "intent": 148}
+{"text": "how many days off have i taken", "intent": 148}
+{"text": "how much paid time off have i used", "intent": 148}
+{"text": "what kind of pto have i used", "intent": 148}
+{"text": "how much of my pto have i depleted", "intent": 148}
+{"text": "how many personal days have i taken", "intent": 148}
+{"text": "what are the most popular attractions in gatlinburg", "intent": 149}
+{"text": "what are some activities to do in chicago", "intent": 149}
+{"text": "give me a list of things to do in orlando", "intent": 149}
+{"text": "where is the best winery in the south of france", "intent": 149}
+{"text": "find something fun for me to do in dallas", "intent": 149}
+{"text": "what are some of the attractions in gatlinburg", "intent": 149}
+{"text": "is there anything fun to do in berlin", "intent": 149}
+{"text": "can you give me some suggestions to go site seeing when i get there", "intent": 149}

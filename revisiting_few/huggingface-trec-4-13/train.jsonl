@@ -1,0 +1,24 @@
+{"text": "What does LOL mean ?", "coarse_label": 0, "fine_label": 1}
+{"text": "What book opens : `` At a certain village in La Mancha , which I shall not name.. . '' ?", "coarse_label": 1, "fine_label": 5}
+{"text": "How does one correctly pronounce ` qigong ' ?", "coarse_label": 2, "fine_label": 26}
+{"text": "What was the nickname of German flying ace Manfred von Richthofen ?", "coarse_label": 3, "fine_label": 29}
+{"text": "Where are diamonds mined ?", "coarse_label": 4, "fine_label": 35}
+{"text": "How many students attend the University of Massachusetts ?", "coarse_label": 5, "fine_label": 38}
+{"text": "What 's the abbreviation for trinitrotoluene ?", "coarse_label": 0, "fine_label": 0}
+{"text": "What are the three secondary colors ?", "coarse_label": 1, "fine_label": 4}
+{"text": "What does Las Vegas mean ?", "coarse_label": 2, "fine_label": 24}
+{"text": "Who does data collection in tourism ?", "coarse_label": 3, "fine_label": 29}
+{"text": "Where were the 196 Summer Olympics held ?", "coarse_label": 4, "fine_label": 35}
+{"text": "How much did a McDonald 's hamburger cost in 1963 ?", "coarse_label": 5, "fine_label": 41}
+{"text": "What does CNN stand for ?", "coarse_label": 0, "fine_label": 1}
+{"text": "What is the mission of Nike ?", "coarse_label": 1, "fine_label": 8}
+{"text": "What is the daily requirement of folic acid for an expectant mother ?", "coarse_label": 2, "fine_label": 25}
+{"text": "What company has built more than 2.5 billion little green houses since 1935 ?", "coarse_label": 3, "fine_label": 28}
+{"text": "Where can I find the names of all the 15 Pokemon ?", "coarse_label": 4, "fine_label": 35}
+{"text": "How many blacks served in the Vietnam War", "coarse_label": 5, "fine_label": 38}
+{"text": "What does R.E.M. stand for , as in the rock group R.E.M. ?", "coarse_label": 0, "fine_label": 1}
+{"text": "What Hollywood dog died in the arms of Jean Harlow in 1932 ?", "coarse_label": 1, "fine_label": 2}
+{"text": "What is diabetes ?", "coarse_label": 2, "fine_label": 24}
+{"text": "Which one of the original seven Mercury program astronauts did not fly on any of the Mercury flights ?", "coarse_label": 3, "fine_label": 29}
+{"text": "What Russian seaport has a name meaning `` Lord of the East '' ?", "coarse_label": 4, "fine_label": 32}
+{"text": "When did Charles Lindbergh die ?", "coarse_label": 5, "fine_label": 39}
