@@ -1,5 +1,6 @@
 # Prompt-Augmented Linear Probing: Scaling Beyond The Limit of Few-shot In-Context LearnersPrompt-Augmented Linear Probing
 Official code for Prompt-Augmented Linear Probing (PALP). (AAAI 2023)
+
 Paper: [Prompt-Augmented Linear Probing: Scaling Beyond The Limit of Few-shot In-Context Learners](https://arxiv.org/abs/2212.10873)
 
 ## Install following package
